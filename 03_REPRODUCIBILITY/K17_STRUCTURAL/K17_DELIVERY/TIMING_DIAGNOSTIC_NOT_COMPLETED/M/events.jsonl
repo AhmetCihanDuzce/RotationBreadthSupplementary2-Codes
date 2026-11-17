@@ -1,0 +1,7 @@
+{"event": "region_start", "class_C_cap": 768, "C10_cap": 768, "utc": 1792657228.2083147}
+{"event": "incumbent", "seconds": 0.16562771999997494, "objective": "D", "value": 19.0, "first_seconds": 0.16562771999997494, "utc": 1792657228.3755295}
+{"event": "incumbent", "seconds": 4.086747291999927, "objective": "D", "value": 17.99999999999787, "first_seconds": 0.16562771999997494, "utc": 1792657232.2965717}
+{"event": "incumbent", "seconds": 4.140272726999683, "objective": "D", "value": 13.0, "first_seconds": 0.16562771999997494, "utc": 1792657232.3500931}
+{"event": "incumbent", "seconds": 10.645808496999962, "objective": "D", "value": 10.0, "first_seconds": 0.16562771999997494, "utc": 1792657238.8559024}
+{"event": "incumbent", "seconds": 56.46257738699933, "objective": "D", "value": 9.0, "first_seconds": 0.16562771999997494, "utc": 1792657284.6723974}
+{"event": "incumbent", "seconds": 57.5362032439989, "objective": "D", "value": 7.999999999989034, "first_seconds": 0.16562771999997494, "utc": 1792657285.7460227}

@@ -1,0 +1,20 @@
+{
+  "k": 17,
+  "regime": "M",
+  "method": "cumulative_C_cap_queue_v2",
+  "search_seconds": 600,
+  "proof_seconds": 1800,
+  "pending": [
+    768,
+    769,
+    770,
+    771,
+    774,
+    775
+  ],
+  "unresolved": [],
+  "closed": [],
+  "calls": [],
+  "candidates": [],
+  "complete": false
+}

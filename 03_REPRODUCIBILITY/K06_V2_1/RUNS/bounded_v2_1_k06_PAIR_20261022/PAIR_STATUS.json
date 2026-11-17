@@ -1,0 +1,35 @@
+{
+  "k": 6,
+  "state": "FINISHED",
+  "started_utc": 1792618757.4049032,
+  "regime": "P",
+  "M": {
+    "complete": true,
+    "unresolved_regions": 0,
+    "points": [
+      [
+        700,
+        58
+      ],
+      [
+        715,
+        0
+      ]
+    ]
+  },
+  "P": {
+    "complete": true,
+    "unresolved_regions": 0,
+    "points": [
+      [
+        700,
+        58
+      ],
+      [
+        715,
+        0
+      ]
+    ]
+  },
+  "finished_utc": 1792620965.82757
+}

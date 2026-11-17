@@ -1,0 +1,14 @@
+{
+  "k": 6,
+  "regime": "P",
+  "T_total": 305.2845000189991,
+  "start_utc": 1792620660.512566,
+  "end_utc": 1792620965.7970855,
+  "exit_code": 0,
+  "per_call_search_seconds": 600,
+  "per_call_proof_seconds": 1800,
+  "affinity": [
+    0
+  ],
+  "launcher_sha256": "8c9334b7629571b262befcccf1c8cf729a329164228ca928a866a6fcf26269e0"
+}

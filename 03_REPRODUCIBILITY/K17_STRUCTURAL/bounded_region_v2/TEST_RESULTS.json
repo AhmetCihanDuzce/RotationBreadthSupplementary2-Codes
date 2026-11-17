@@ -1,0 +1,141 @@
+{
+  "status": "PASS",
+  "exhaustive_cases": [
+    {
+      "seed": 1,
+      "k": 1,
+      "regime": "M",
+      "status": "PASS"
+    },
+    {
+      "seed": 1,
+      "k": 1,
+      "regime": "P",
+      "status": "PASS"
+    },
+    {
+      "seed": 1,
+      "k": 2,
+      "regime": "M",
+      "status": "PASS"
+    },
+    {
+      "seed": 1,
+      "k": 2,
+      "regime": "P",
+      "status": "PASS"
+    },
+    {
+      "seed": 2,
+      "k": 1,
+      "regime": "M",
+      "status": "PASS"
+    },
+    {
+      "seed": 2,
+      "k": 1,
+      "regime": "P",
+      "status": "PASS"
+    },
+    {
+      "seed": 2,
+      "k": 2,
+      "regime": "M",
+      "status": "PASS"
+    },
+    {
+      "seed": 2,
+      "k": 2,
+      "regime": "P",
+      "status": "PASS"
+    },
+    {
+      "seed": 2,
+      "k": 3,
+      "regime": "M",
+      "status": "PASS"
+    },
+    {
+      "seed": 2,
+      "k": 3,
+      "regime": "P",
+      "status": "PASS"
+    },
+    {
+      "seed": 3,
+      "k": 1,
+      "regime": "M",
+      "status": "PASS"
+    },
+    {
+      "seed": 3,
+      "k": 1,
+      "regime": "P",
+      "status": "PASS"
+    },
+    {
+      "seed": 3,
+      "k": 2,
+      "regime": "M",
+      "status": "PASS"
+    },
+    {
+      "seed": 3,
+      "k": 2,
+      "regime": "P",
+      "status": "PASS"
+    },
+    {
+      "seed": 3,
+      "k": 3,
+      "regime": "M",
+      "status": "PASS"
+    },
+    {
+      "seed": 3,
+      "k": 3,
+      "regime": "P",
+      "status": "PASS"
+    },
+    {
+      "seed": 4,
+      "k": 1,
+      "regime": "M",
+      "status": "PASS"
+    },
+    {
+      "seed": 4,
+      "k": 1,
+      "regime": "P",
+      "status": "PASS"
+    },
+    {
+      "seed": 4,
+      "k": 2,
+      "regime": "M",
+      "status": "PASS"
+    },
+    {
+      "seed": 4,
+      "k": 2,
+      "regime": "P",
+      "status": "PASS"
+    },
+    {
+      "seed": 4,
+      "k": 3,
+      "regime": "M",
+      "status": "PASS"
+    },
+    {
+      "seed": 4,
+      "k": 3,
+      "regime": "P",
+      "status": "PASS"
+    }
+  ],
+  "timeout_queue": "PASS",
+  "deadline_clock": "PASS",
+  "native_time_limit": "PASS",
+  "native_limited_status": "HighsModelStatus.kTimeLimit"
+}

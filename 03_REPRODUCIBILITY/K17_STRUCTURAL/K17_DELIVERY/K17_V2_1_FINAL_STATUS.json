@@ -1,0 +1,50 @@
+{
+  "k": 17,
+  "mathematical_frontier": "COMPLETE_INDEPENDENT_STRUCTURAL_ORACLE_AND_V2_1_MODEL_QA_PASS",
+  "M_points_C10_Dsum": [
+    [
+      768,
+      8
+    ],
+    [
+      771,
+      2
+    ],
+    [
+      775,
+      0
+    ]
+  ],
+  "P_class_indices": [
+    [
+      154,
+      0
+    ]
+  ],
+  "P_representative_C10_Dsum": [
+    768,
+    8
+  ],
+  "timed_V2_1_pair": "NOT_COMPLETE",
+  "previous_archive_snapshot": {
+    "M": "RUNNING; no terminal result",
+    "P": "NOT_STARTED",
+    "resume": "not portable"
+  },
+  "fresh_M_diagnostic_attempt": {
+    "protocol": {
+      "search_seconds": 600,
+      "proof_seconds_after_first_incumbent": 1800,
+      "checkpoint_seconds": 300
+    },
+    "elapsed_seconds": 300.0961543230005,
+    "first_incumbent_seconds": 0.16562771999997494,
+    "best_Dsum_incumbent": 7.999999999989034,
+    "call_end_observed": false,
+    "regions_closed": 0,
+    "stopped_reason": "Exact independent structural proof already closes mathematical frontier; avoid duplicate long proof run",
+    "classification": "diagnostic only; not a completed official M/P timing run"
+  },
+  "P_fresh_timed_run": "NOT_STARTED",
+  "interpretation": "Mathematical result is closed. Timed M/P comparison remains open and separate."
+}

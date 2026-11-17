@@ -1,0 +1,15 @@
+{
+  "objective": "D",
+  "status": "HighsModelStatus.kInterrupt",
+  "optimal": false,
+  "infeasible": false,
+  "seconds": 0.018412931000057142,
+  "total_call_seconds": 0.02178534300037427,
+  "first_solution_seconds": 0.01706399200065789,
+  "best_solution_seconds": 0.01706399200065789,
+  "objective_value": 165.0,
+  "dual_bound": 0.0,
+  "gap": 1.0,
+  "nodes": 0,
+  "callback_first_observed": true
+}
