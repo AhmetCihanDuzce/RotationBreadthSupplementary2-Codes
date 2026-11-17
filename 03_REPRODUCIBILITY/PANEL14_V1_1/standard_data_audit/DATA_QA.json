@@ -1,0 +1,22 @@
+{
+  "source_sha256": "64f4ff128fd93ee82b9c7551ade8050001ca83693168ad28e869b038cad56d2d",
+  "source_sheet": "toplusayfa",
+  "times_range": "L2:AC19",
+  "reba_range": "H2:H19",
+  "source_authority": "User confirmed summary contains later observations; worker tabs are preliminary. Later raw observations absent.",
+  "rounding": "Decimal(str(cached_numeric_value)), ROUND_HALF_UP to 0.1; no subsequent input rounding",
+  "time_cells": 324,
+  "reba_cells": 18,
+  "header_and_station_order_check": "PASS",
+  "numeric_positive_complete": "PASS",
+  "orientation": "CSV station rows x worker columns; transpose once to model worker x station",
+  "mean_recalculation": "NOT VERIFIED: final raw observations absent",
+  "time_changed": 220,
+  "reba_changed": 17,
+  "model_and_dpa_qa": "PENDING; no solver experiment started",
+  "outputs_sha256": {
+    "cell_mapping_and_rounding.csv": "d4899d72038a8f752c42d22e887dfb81a62f644fbecd55ebe081209222bf4632",
+    "reba_standard.csv": "7ceacb04646b152e49a68289d3d4a6c395d0fec6a1669914cd5197a2a1db53a0",
+    "processing_times_standard_1decimal.csv": "5f2e0c9bf6f3a0a7465eaf923177ed9767360d49c9a45a6bc7794ae7b6875e56"
+  }
+}

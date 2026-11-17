@@ -1,0 +1,183 @@
+{
+  "status": "PASS",
+  "cases": [
+    {
+      "seed": 1,
+      "n": 2,
+      "k": 1,
+      "regime": "M",
+      "points": 2,
+      "status": "PASS"
+    },
+    {
+      "seed": 1,
+      "n": 2,
+      "k": 1,
+      "regime": "P",
+      "points": 2,
+      "status": "PASS"
+    },
+    {
+      "seed": 1,
+      "n": 2,
+      "k": 2,
+      "regime": "M",
+      "points": 1,
+      "status": "PASS"
+    },
+    {
+      "seed": 1,
+      "n": 2,
+      "k": 2,
+      "regime": "P",
+      "points": 1,
+      "status": "PASS"
+    },
+    {
+      "seed": 2,
+      "n": 3,
+      "k": 1,
+      "regime": "M",
+      "points": 4,
+      "status": "PASS"
+    },
+    {
+      "seed": 2,
+      "n": 3,
+      "k": 1,
+      "regime": "P",
+      "points": 3,
+      "status": "PASS"
+    },
+    {
+      "seed": 2,
+      "n": 3,
+      "k": 2,
+      "regime": "M",
+      "points": 2,
+      "status": "PASS"
+    },
+    {
+      "seed": 2,
+      "n": 3,
+      "k": 2,
+      "regime": "P",
+      "points": 2,
+      "status": "PASS"
+    },
+    {
+      "seed": 2,
+      "n": 3,
+      "k": 3,
+      "regime": "M",
+      "points": 1,
+      "status": "PASS"
+    },
+    {
+      "seed": 2,
+      "n": 3,
+      "k": 3,
+      "regime": "P",
+      "points": 1,
+      "status": "PASS"
+    },
+    {
+      "seed": 3,
+      "n": 3,
+      "k": 1,
+      "regime": "M",
+      "points": 4,
+      "status": "PASS"
+    },
+    {
+      "seed": 3,
+      "n": 3,
+      "k": 1,
+      "regime": "P",
+      "points": 2,
+      "status": "PASS"
+    },
+    {
+      "seed": 3,
+      "n": 3,
+      "k": 2,
+      "regime": "M",
+      "points": 2,
+      "status": "PASS"
+    },
+    {
+      "seed": 3,
+      "n": 3,
+      "k": 2,
+      "regime": "P",
+      "points": 1,
+      "status": "PASS"
+    },
+    {
+      "seed": 3,
+      "n": 3,
+      "k": 3,
+      "regime": "M",
+      "points": 1,
+      "status": "PASS"
+    },
+    {
+      "seed": 3,
+      "n": 3,
+      "k": 3,
+      "regime": "P",
+      "points": 1,
+      "status": "PASS"
+    },
+    {
+      "seed": 4,
+      "n": 3,
+      "k": 1,
+      "regime": "M",
+      "points": 3,
+      "status": "PASS"
+    },
+    {
+      "seed": 4,
+      "n": 3,
+      "k": 1,
+      "regime": "P",
+      "points": 2,
+      "status": "PASS"
+    },
+    {
+      "seed": 4,
+      "n": 3,
+      "k": 2,
+      "regime": "M",
+      "points": 2,
+      "status": "PASS"
+    },
+    {
+      "seed": 4,
+      "n": 3,
+      "k": 2,
+      "regime": "P",
+      "points": 1,
+      "status": "PASS"
+    },
+    {
+      "seed": 4,
+      "n": 3,
+      "k": 3,
+      "regime": "M",
+      "points": 1,
+      "status": "PASS"
+    },
+    {
+      "seed": 4,
+      "n": 3,
+      "k": 3,
+      "regime": "P",
+      "points": 1,
+      "status": "PASS"
+    }
+  ],
+  "boundary_tests": "PASS",
+  "infeasible_test": "PASS"
+}

@@ -1,0 +1,15 @@
+{
+  "k": 16,
+  "regime": "M",
+  "elapsed": 300.17184990300007,
+  "utc": 1792414541.5522747,
+  "pid": 6,
+  "last_safe_event": {
+    "event": "call_start",
+    "call": 8,
+    "objective": "D",
+    "utc": 1792414505.0396006
+  },
+  "state": "RUNNING",
+  "time_limit": null
+}

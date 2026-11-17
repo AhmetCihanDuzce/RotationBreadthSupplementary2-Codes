@@ -1,0 +1,13 @@
+{
+  "k": 16,
+  "regime": "M",
+  "T_total": 324.41915941699995,
+  "start_utc": 1792414241.379844,
+  "end_utc": 1792414565.7990017,
+  "exit_code": 0,
+  "time_limit": null,
+  "affinity": [
+    0
+  ],
+  "launcher_sha256": "31aca980686e581485c037b9bc85a624d25cc021252c087c2b56676ab9d16d7f"
+}

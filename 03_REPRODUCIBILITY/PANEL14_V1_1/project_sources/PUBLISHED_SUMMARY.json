@@ -1,0 +1,11 @@
+{
+  "path_relative_to_panel": "project_sources/Verimli_Rotasyon_Model_Inputs.xlsx",
+  "sha256": "b4207bf4406d933ef8753e4fa669624e51c9e312a7cd06ddf3eafcaee2176fa4",
+  "historical_source_sha256": "64f4ff128fd93ee82b9c7551ade8050001ca83693168ad28e869b038cad56d2d",
+  "source_sheet": "toplusayfa",
+  "times_range": "L2:AC19",
+  "reba_range": "H2:H19",
+  "time_cells": 324,
+  "reba_cells": 18,
+  "scope": "Only the final summary values used as model inputs and their coded row and column labels."
+}
