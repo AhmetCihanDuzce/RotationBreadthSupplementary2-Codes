@@ -1,0 +1,58 @@
+{
+  "release_date": "2026-10-22",
+  "status": "PASS",
+  "scope": "Historical verification of the 2026-10-22 research release. Packaging, input reconstruction, read-only result verification, deterministic K17 regeneration and small synthetic validation. No full 18-worker MILP experiment or K5 targeted MILP audit was rerun for this release.",
+  "retained_files_byte_identical_to_source": 282,
+  "standard_input_reconstruction": "PASS; all 3 CSV files byte-identical to archive",
+  "primary_panel_read_only": {
+    "runs": 28,
+    "witnesses": 46,
+    "scalar_calls_in_archive": 184,
+    "status": "PASS"
+  },
+  "all_selected_layer_witnesses": 68,
+  "integer_schedule_and_objective_QA": "PASS",
+  "global_front_sizes": {
+    "M": 28,
+    "P": 17
+  },
+  "projection_checks": "PASS for all 18 layers and global front",
+  "all_six_supplementary_CSVs_match_revised_manuscript": "PASS",
+  "followup_cap_coverage_and_audit_record_checks": "PASS",
+  "small_synthetic_tests": {
+    "V1.1": {
+      "cases": 22,
+      "status": "PASS"
+    },
+    "V2.1": {
+      "cases": 22,
+      "timeout_queue": "PASS",
+      "600_second_clock": "PASS",
+      "native_time_limit": "PASS"
+    }
+  },
+  "K17_oracle_regeneration": "PASS; JSON identical to archived exact reference and all 3 witnesses pass frozen-model QA",
+  "supplement_docx_visual_QA": {
+    "pages": 8,
+    "all_pages_reviewed": true,
+    "status": "PASS"
+  },
+  "figures_visual_QA": {
+    "count": 3,
+    "status": "PASS"
+  },
+  "limitation": "Consistency and witness checks do not independently prove numerical MILP dual certificates. Full-scale reruns remain optional commands documented in README.",
+  "complete_packaged_verify_command": {
+    "status": "PASS",
+    "reference_data_files_matched": 9,
+    "solver_calls": 0,
+    "scope": "Hashes, recorded closure, witness arithmetic and derived results; no independent MILP dual proof."
+  },
+  "supplement_rebuild_source": "PASS; document XML, styles and footer identical to visually reviewed deliverable",
+  "public_summary_release": {
+    "date": "2026-11-11",
+    "worksheet_count": 1,
+    "model_input_values_matching_historical_summary": 342,
+    "retained_files_byte_identical_to_source": 281
+  }
+}

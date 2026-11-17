@@ -1,0 +1,5 @@
+# Recorded solver/data packages; matplotlib is used only for derived analysis.
+numpy==2.3.5
+scipy==1.17.0
+openpyxl==3.1.5
+matplotlib==3.10.8

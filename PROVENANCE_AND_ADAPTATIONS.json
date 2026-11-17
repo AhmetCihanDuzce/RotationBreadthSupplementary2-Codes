@@ -1,0 +1,1441 @@
+{
+  "release_date": "2026-10-22",
+  "policy": "Frozen solver source, standardized inputs and retained solver run evidence are byte-for-byte copies. The public workbook is a newly created, one-sheet extract containing only the final model input values and coded labels. The historic private source workbook is omitted.",
+  "retained_files": [
+    {
+      "release_path": "03_REPRODUCIBILITY/PANEL14_V1_1/official_k01_M/environment.json",
+      "source_path": "03_REPRODUCIBILITY/PANEL14_V1_1/official_k01_M/environment.json",
+      "sha256": "fbab1f9c2403ddab3d03a8c7fedd100bd5262c09b1518ed14f96c5c40bd31415"
+    },
+    {
+      "release_path": "03_REPRODUCIBILITY/PANEL14_V1_1/official_k01_M/events.jsonl",
+      "source_path": "03_REPRODUCIBILITY/PANEL14_V1_1/official_k01_M/events.jsonl",
+      "sha256": "1d69ee3b02c4fa3cc510ff940cc387721a3b8abfed044ae9d5e00d05357bcfd0"
+    },
+    {
+      "release_path": "03_REPRODUCIBILITY/PANEL14_V1_1/official_k01_M/result.json",
+      "source_path": "03_REPRODUCIBILITY/PANEL14_V1_1/official_k01_M/result.json",
+      "sha256": "12e9a649707a13617f6c31524dab2827f5328d6cd5eebb599f14ca7e45e8f86e"
+    },
+    {
+      "release_path": "03_REPRODUCIBILITY/PANEL14_V1_1/official_k01_M/stdout.log",
+      "source_path": "03_REPRODUCIBILITY/PANEL14_V1_1/official_k01_M/stdout.log",
+      "sha256": "1d69ee3b02c4fa3cc510ff940cc387721a3b8abfed044ae9d5e00d05357bcfd0"
+    },
+    {
+      "release_path": "03_REPRODUCIBILITY/PANEL14_V1_1/official_k01_M/timing.json",
+      "source_path": "03_REPRODUCIBILITY/PANEL14_V1_1/official_k01_M/timing.json",
+      "sha256": "6dfe138919cccb3b932cb87dc60acab80c305928fceddf074f31a180d8d07297"
+    },
+    {
+      "release_path": "03_REPRODUCIBILITY/PANEL14_V1_1/official_k01_P/environment.json",
+      "source_path": "03_REPRODUCIBILITY/PANEL14_V1_1/official_k01_P/environment.json",
+      "sha256": "fbab1f9c2403ddab3d03a8c7fedd100bd5262c09b1518ed14f96c5c40bd31415"
+    },
+    {
+      "release_path": "03_REPRODUCIBILITY/PANEL14_V1_1/official_k01_P/events.jsonl",
+      "source_path": "03_REPRODUCIBILITY/PANEL14_V1_1/official_k01_P/events.jsonl",
+      "sha256": "04c829ebea930fc8225b7444d2f049c5e3e9056e326c3258bd08eecc559a4080"
+    },
+    {
+      "release_path": "03_REPRODUCIBILITY/PANEL14_V1_1/official_k01_P/result.json",
+      "source_path": "03_REPRODUCIBILITY/PANEL14_V1_1/official_k01_P/result.json",
+      "sha256": "8e956d13fd2e5c81f975f7e36aef130e82113cc68889871486305a2678c42e55"
+    },
+    {
+      "release_path": "03_REPRODUCIBILITY/PANEL14_V1_1/official_k01_P/stdout.log",
+      "source_path": "03_REPRODUCIBILITY/PANEL14_V1_1/official_k01_P/stdout.log",
+      "sha256": "04c829ebea930fc8225b7444d2f049c5e3e9056e326c3258bd08eecc559a4080"
+    },
+    {
+      "release_path": "03_REPRODUCIBILITY/PANEL14_V1_1/official_k01_P/timing.json",
+      "source_path": "03_REPRODUCIBILITY/PANEL14_V1_1/official_k01_P/timing.json",
+      "sha256": "35ca2b2594ea590bb3001f3974c4ab8ad478422ad5c7fc2be6c8a9601c9e41da"
+    },
+    {
+      "release_path": "03_REPRODUCIBILITY/PANEL14_V1_1/official_k03_M/environment.json",
+      "source_path": "03_REPRODUCIBILITY/PANEL14_V1_1/official_k03_M/environment.json",
+      "sha256": "fbab1f9c2403ddab3d03a8c7fedd100bd5262c09b1518ed14f96c5c40bd31415"
+    },
+    {
+      "release_path": "03_REPRODUCIBILITY/PANEL14_V1_1/official_k03_M/events.jsonl",
+      "source_path": "03_REPRODUCIBILITY/PANEL14_V1_1/official_k03_M/events.jsonl",
+      "sha256": "aebf881bc9985ec92e87c412af08adebfded9863013c296c3a85e9462aa5d586"
+    },
+    {
+      "release_path": "03_REPRODUCIBILITY/PANEL14_V1_1/official_k03_M/result.json",
+      "source_path": "03_REPRODUCIBILITY/PANEL14_V1_1/official_k03_M/result.json",
+      "sha256": "fb9df2737bee2279da68006c9ae612bd1e0aff114f2ed8a99349157d4fa59dfa"
+    },
+    {
+      "release_path": "03_REPRODUCIBILITY/PANEL14_V1_1/official_k03_M/stdout.log",
+      "source_path": "03_REPRODUCIBILITY/PANEL14_V1_1/official_k03_M/stdout.log",
+      "sha256": "aebf881bc9985ec92e87c412af08adebfded9863013c296c3a85e9462aa5d586"
+    },
+    {
+      "release_path": "03_REPRODUCIBILITY/PANEL14_V1_1/official_k03_M/timing.json",
+      "source_path": "03_REPRODUCIBILITY/PANEL14_V1_1/official_k03_M/timing.json",
+      "sha256": "c34ae12a11ed4e62636805e7d70d77aa98ed3535d910f65a30fa5a594b24dcc9"
+    },
+    {
+      "release_path": "03_REPRODUCIBILITY/PANEL14_V1_1/official_k03_P/environment.json",
+      "source_path": "03_REPRODUCIBILITY/PANEL14_V1_1/official_k03_P/environment.json",
+      "sha256": "fbab1f9c2403ddab3d03a8c7fedd100bd5262c09b1518ed14f96c5c40bd31415"
+    },
+    {
+      "release_path": "03_REPRODUCIBILITY/PANEL14_V1_1/official_k03_P/events.jsonl",
+      "source_path": "03_REPRODUCIBILITY/PANEL14_V1_1/official_k03_P/events.jsonl",
+      "sha256": "e56e16e6b9574712a22c4b4d4b7ab5184f387a89816a4ffc61402f507fecd9ff"
+    },
+    {
+      "release_path": "03_REPRODUCIBILITY/PANEL14_V1_1/official_k03_P/result.json",
+      "source_path": "03_REPRODUCIBILITY/PANEL14_V1_1/official_k03_P/result.json",
+      "sha256": "39f790d23610f6c691501c4b812856810cc6d6a3c5ea731523b3fbd5ee30ee6c"
+    },
+    {
+      "release_path": "03_REPRODUCIBILITY/PANEL14_V1_1/official_k03_P/stdout.log",
+      "source_path": "03_REPRODUCIBILITY/PANEL14_V1_1/official_k03_P/stdout.log",
+      "sha256": "e56e16e6b9574712a22c4b4d4b7ab5184f387a89816a4ffc61402f507fecd9ff"
+    },
+    {
+      "release_path": "03_REPRODUCIBILITY/PANEL14_V1_1/official_k03_P/timing.json",
+      "source_path": "03_REPRODUCIBILITY/PANEL14_V1_1/official_k03_P/timing.json",
+      "sha256": "3f96fdbd8c2e2313e8e314e6f716f1a4c58bc5c08cd6c2974726f4665b88bfd7"
+    },
+    {
+      "release_path": "03_REPRODUCIBILITY/PANEL14_V1_1/official_k04_M/environment.json",
+      "source_path": "03_REPRODUCIBILITY/PANEL14_V1_1/official_k04_M/environment.json",
+      "sha256": "fbab1f9c2403ddab3d03a8c7fedd100bd5262c09b1518ed14f96c5c40bd31415"
+    },
+    {
+      "release_path": "03_REPRODUCIBILITY/PANEL14_V1_1/official_k04_M/events.jsonl",
+      "source_path": "03_REPRODUCIBILITY/PANEL14_V1_1/official_k04_M/events.jsonl",
+      "sha256": "02776ddd3fa5b831315c53fad4a0c3303abf05a46be02a8f418ad337d6917679"
+    },
+    {
+      "release_path": "03_REPRODUCIBILITY/PANEL14_V1_1/official_k04_M/result.json",
+      "source_path": "03_REPRODUCIBILITY/PANEL14_V1_1/official_k04_M/result.json",
+      "sha256": "45eb4e57f424ed557aaade11a7b05db299619888b89f7e1f9dc292ae73dad56f"
+    },
+    {
+      "release_path": "03_REPRODUCIBILITY/PANEL14_V1_1/official_k04_M/stdout.log",
+      "source_path": "03_REPRODUCIBILITY/PANEL14_V1_1/official_k04_M/stdout.log",
+      "sha256": "02776ddd3fa5b831315c53fad4a0c3303abf05a46be02a8f418ad337d6917679"
+    },
+    {
+      "release_path": "03_REPRODUCIBILITY/PANEL14_V1_1/official_k04_M/timing.json",
+      "source_path": "03_REPRODUCIBILITY/PANEL14_V1_1/official_k04_M/timing.json",
+      "sha256": "3d9eb568e3e770e2eb1ce0e1bdade22050bf680ad2baf9296ca0c9065cae0db3"
+    },
+    {
+      "release_path": "03_REPRODUCIBILITY/PANEL14_V1_1/official_k04_P/environment.json",
+      "source_path": "03_REPRODUCIBILITY/PANEL14_V1_1/official_k04_P/environment.json",
+      "sha256": "fbab1f9c2403ddab3d03a8c7fedd100bd5262c09b1518ed14f96c5c40bd31415"
+    },
+    {
+      "release_path": "03_REPRODUCIBILITY/PANEL14_V1_1/official_k04_P/events.jsonl",
+      "source_path": "03_REPRODUCIBILITY/PANEL14_V1_1/official_k04_P/events.jsonl",
+      "sha256": "88e84db5cfbbf4287f9ecfdb6e646c4741c096baefffa3cf91451970c80a1c22"
+    },
+    {
+      "release_path": "03_REPRODUCIBILITY/PANEL14_V1_1/official_k04_P/result.json",
+      "source_path": "03_REPRODUCIBILITY/PANEL14_V1_1/official_k04_P/result.json",
+      "sha256": "76a237f16727b63c253d4be6142cff2aa89098bedf867e53554aec828cf44acf"
+    },
+    {
+      "release_path": "03_REPRODUCIBILITY/PANEL14_V1_1/official_k04_P/stdout.log",
+      "source_path": "03_REPRODUCIBILITY/PANEL14_V1_1/official_k04_P/stdout.log",
+      "sha256": "88e84db5cfbbf4287f9ecfdb6e646c4741c096baefffa3cf91451970c80a1c22"
+    },
+    {
+      "release_path": "03_REPRODUCIBILITY/PANEL14_V1_1/official_k04_P/timing.json",
+      "source_path": "03_REPRODUCIBILITY/PANEL14_V1_1/official_k04_P/timing.json",
+      "sha256": "f6b28f3b8c1e89dc97b9b9dec6d473d836fdc220e5aafd41ef87b1493f1cc6ba"
+    },
+    {
+      "release_path": "03_REPRODUCIBILITY/PANEL14_V1_1/official_k07_M/environment.json",
+      "source_path": "03_REPRODUCIBILITY/PANEL14_V1_1/official_k07_M/environment.json",
+      "sha256": "fbab1f9c2403ddab3d03a8c7fedd100bd5262c09b1518ed14f96c5c40bd31415"
+    },
+    {
+      "release_path": "03_REPRODUCIBILITY/PANEL14_V1_1/official_k07_M/events.jsonl",
+      "source_path": "03_REPRODUCIBILITY/PANEL14_V1_1/official_k07_M/events.jsonl",
+      "sha256": "ae31f6924bf937f0b27489b0c434d015e7d2a4bb2591aab91231994bc079e56a"
+    },
+    {
+      "release_path": "03_REPRODUCIBILITY/PANEL14_V1_1/official_k07_M/result.json",
+      "source_path": "03_REPRODUCIBILITY/PANEL14_V1_1/official_k07_M/result.json",
+      "sha256": "2fec6ad5179d069c21e041a3756397482d1dbca73c886d3305d01d0bdbe259f0"
+    },
+    {
+      "release_path": "03_REPRODUCIBILITY/PANEL14_V1_1/official_k07_M/stdout.log",
+      "source_path": "03_REPRODUCIBILITY/PANEL14_V1_1/official_k07_M/stdout.log",
+      "sha256": "ae31f6924bf937f0b27489b0c434d015e7d2a4bb2591aab91231994bc079e56a"
+    },
+    {
+      "release_path": "03_REPRODUCIBILITY/PANEL14_V1_1/official_k07_M/timing.json",
+      "source_path": "03_REPRODUCIBILITY/PANEL14_V1_1/official_k07_M/timing.json",
+      "sha256": "043354cb83a174db63fb8fe3e9b7daa746efd8bc9cd71effb91c974514020e24"
+    },
+    {
+      "release_path": "03_REPRODUCIBILITY/PANEL14_V1_1/official_k07_P/environment.json",
+      "source_path": "03_REPRODUCIBILITY/PANEL14_V1_1/official_k07_P/environment.json",
+      "sha256": "fbab1f9c2403ddab3d03a8c7fedd100bd5262c09b1518ed14f96c5c40bd31415"
+    },
+    {
+      "release_path": "03_REPRODUCIBILITY/PANEL14_V1_1/official_k07_P/events.jsonl",
+      "source_path": "03_REPRODUCIBILITY/PANEL14_V1_1/official_k07_P/events.jsonl",
+      "sha256": "4dbbe68af830fef0543e786c204376675ef145d7b2992f26c507754cf1b49675"
+    },
+    {
+      "release_path": "03_REPRODUCIBILITY/PANEL14_V1_1/official_k07_P/result.json",
+      "source_path": "03_REPRODUCIBILITY/PANEL14_V1_1/official_k07_P/result.json",
+      "sha256": "ef8d2f92edab92c77ad78207bc4e3407100ef52edd1c3bee2ff781dd727e6672"
+    },
+    {
+      "release_path": "03_REPRODUCIBILITY/PANEL14_V1_1/official_k07_P/stdout.log",
+      "source_path": "03_REPRODUCIBILITY/PANEL14_V1_1/official_k07_P/stdout.log",
+      "sha256": "4dbbe68af830fef0543e786c204376675ef145d7b2992f26c507754cf1b49675"
+    },
+    {
+      "release_path": "03_REPRODUCIBILITY/PANEL14_V1_1/official_k07_P/timing.json",
+      "source_path": "03_REPRODUCIBILITY/PANEL14_V1_1/official_k07_P/timing.json",
+      "sha256": "dbbf1e936456221e9d1f8985a35658271603826688cbc072e48aa91ac1eef773"
+    },
+    {
+      "release_path": "03_REPRODUCIBILITY/PANEL14_V1_1/official_k08_M/environment.json",
+      "source_path": "03_REPRODUCIBILITY/PANEL14_V1_1/official_k08_M/environment.json",
+      "sha256": "fbab1f9c2403ddab3d03a8c7fedd100bd5262c09b1518ed14f96c5c40bd31415"
+    },
+    {
+      "release_path": "03_REPRODUCIBILITY/PANEL14_V1_1/official_k08_M/events.jsonl",
+      "source_path": "03_REPRODUCIBILITY/PANEL14_V1_1/official_k08_M/events.jsonl",
+      "sha256": "5895dbe33480f9ebb09bdecab46075d6169151dca6b7e87607c66d6dcab25547"
+    },
+    {
+      "release_path": "03_REPRODUCIBILITY/PANEL14_V1_1/official_k08_M/result.json",
+      "source_path": "03_REPRODUCIBILITY/PANEL14_V1_1/official_k08_M/result.json",
+      "sha256": "a4ce36ce1e1629c4fde68dff30498f583f60deb2199875fdfb7372fa941d6ca6"
+    },
+    {
+      "release_path": "03_REPRODUCIBILITY/PANEL14_V1_1/official_k08_M/stdout.log",
+      "source_path": "03_REPRODUCIBILITY/PANEL14_V1_1/official_k08_M/stdout.log",
+      "sha256": "5895dbe33480f9ebb09bdecab46075d6169151dca6b7e87607c66d6dcab25547"
+    },
+    {
+      "release_path": "03_REPRODUCIBILITY/PANEL14_V1_1/official_k08_M/timing.json",
+      "source_path": "03_REPRODUCIBILITY/PANEL14_V1_1/official_k08_M/timing.json",
+      "sha256": "13d0804ea934d916d0b22ae6084f69230b7c7f7002ed9cb6dff32fb40b67797a"
+    },
+    {
+      "release_path": "03_REPRODUCIBILITY/PANEL14_V1_1/official_k08_P/environment.json",
+      "source_path": "03_REPRODUCIBILITY/PANEL14_V1_1/official_k08_P/environment.json",
+      "sha256": "fbab1f9c2403ddab3d03a8c7fedd100bd5262c09b1518ed14f96c5c40bd31415"
+    },
+    {
+      "release_path": "03_REPRODUCIBILITY/PANEL14_V1_1/official_k08_P/events.jsonl",
+      "source_path": "03_REPRODUCIBILITY/PANEL14_V1_1/official_k08_P/events.jsonl",
+      "sha256": "57d839d53f39252f2124868f12af61f9f3b545aebf723fc217792bc5c6f2056d"
+    },
+    {
+      "release_path": "03_REPRODUCIBILITY/PANEL14_V1_1/official_k08_P/result.json",
+      "source_path": "03_REPRODUCIBILITY/PANEL14_V1_1/official_k08_P/result.json",
+      "sha256": "ca7298cea1ca62b56587f0274f7090326fcb667584bbd7929ab3a754b9abf4c8"
+    },
+    {
+      "release_path": "03_REPRODUCIBILITY/PANEL14_V1_1/official_k08_P/stdout.log",
+      "source_path": "03_REPRODUCIBILITY/PANEL14_V1_1/official_k08_P/stdout.log",
+      "sha256": "57d839d53f39252f2124868f12af61f9f3b545aebf723fc217792bc5c6f2056d"
+    },
+    {
+      "release_path": "03_REPRODUCIBILITY/PANEL14_V1_1/official_k08_P/timing.json",
+      "source_path": "03_REPRODUCIBILITY/PANEL14_V1_1/official_k08_P/timing.json",
+      "sha256": "602b9faaff73e8e1fab6d372318c189e0fcfffb2f87db7947f3e5318912235cd"
+    },
+    {
+      "release_path": "03_REPRODUCIBILITY/PANEL14_V1_1/official_k09_M/environment.json",
+      "source_path": "03_REPRODUCIBILITY/PANEL14_V1_1/official_k09_M/environment.json",
+      "sha256": "fbab1f9c2403ddab3d03a8c7fedd100bd5262c09b1518ed14f96c5c40bd31415"
+    },
+    {
+      "release_path": "03_REPRODUCIBILITY/PANEL14_V1_1/official_k09_M/events.jsonl",
+      "source_path": "03_REPRODUCIBILITY/PANEL14_V1_1/official_k09_M/events.jsonl",
+      "sha256": "d65f368686b70432dd9f5e7ad80a84de7055f040838122465581005797daa18d"
+    },
+    {
+      "release_path": "03_REPRODUCIBILITY/PANEL14_V1_1/official_k09_M/result.json",
+      "source_path": "03_REPRODUCIBILITY/PANEL14_V1_1/official_k09_M/result.json",
+      "sha256": "cc13f8524d3532c8f0852b6864b04b4553e648d382e3370d62fe751d06bf375e"
+    },
+    {
+      "release_path": "03_REPRODUCIBILITY/PANEL14_V1_1/official_k09_M/stdout.log",
+      "source_path": "03_REPRODUCIBILITY/PANEL14_V1_1/official_k09_M/stdout.log",
+      "sha256": "d65f368686b70432dd9f5e7ad80a84de7055f040838122465581005797daa18d"
+    },
+    {
+      "release_path": "03_REPRODUCIBILITY/PANEL14_V1_1/official_k09_M/timing.json",
+      "source_path": "03_REPRODUCIBILITY/PANEL14_V1_1/official_k09_M/timing.json",
+      "sha256": "5e5756e228f040e32d2756b3e762c372be4bd4d70b36c8e7beafe423beb67294"
+    },
+    {
+      "release_path": "03_REPRODUCIBILITY/PANEL14_V1_1/official_k09_P/environment.json",
+      "source_path": "03_REPRODUCIBILITY/PANEL14_V1_1/official_k09_P/environment.json",
+      "sha256": "fbab1f9c2403ddab3d03a8c7fedd100bd5262c09b1518ed14f96c5c40bd31415"
+    },
+    {
+      "release_path": "03_REPRODUCIBILITY/PANEL14_V1_1/official_k09_P/events.jsonl",
+      "source_path": "03_REPRODUCIBILITY/PANEL14_V1_1/official_k09_P/events.jsonl",
+      "sha256": "d6b052315941708d31dc149734b4a832135c27e54d7f19b16975286f4ca66491"
+    },
+    {
+      "release_path": "03_REPRODUCIBILITY/PANEL14_V1_1/official_k09_P/result.json",
+      "source_path": "03_REPRODUCIBILITY/PANEL14_V1_1/official_k09_P/result.json",
+      "sha256": "b15f8478a96e1ae881fb86e04cdfebb6c6b16e778533a4bc028f93874619e01b"
+    },
+    {
+      "release_path": "03_REPRODUCIBILITY/PANEL14_V1_1/official_k09_P/stdout.log",
+      "source_path": "03_REPRODUCIBILITY/PANEL14_V1_1/official_k09_P/stdout.log",
+      "sha256": "d6b052315941708d31dc149734b4a832135c27e54d7f19b16975286f4ca66491"
+    },
+    {
+      "release_path": "03_REPRODUCIBILITY/PANEL14_V1_1/official_k09_P/timing.json",
+      "source_path": "03_REPRODUCIBILITY/PANEL14_V1_1/official_k09_P/timing.json",
+      "sha256": "4adef68e6733d89a39c9a1eda231a9babd5e9621080b2c3f24eb3e476c7352d4"
+    },
+    {
+      "release_path": "03_REPRODUCIBILITY/PANEL14_V1_1/official_k10_M/environment.json",
+      "source_path": "03_REPRODUCIBILITY/PANEL14_V1_1/official_k10_M/environment.json",
+      "sha256": "fbab1f9c2403ddab3d03a8c7fedd100bd5262c09b1518ed14f96c5c40bd31415"
+    },
+    {
+      "release_path": "03_REPRODUCIBILITY/PANEL14_V1_1/official_k10_M/events.jsonl",
+      "source_path": "03_REPRODUCIBILITY/PANEL14_V1_1/official_k10_M/events.jsonl",
+      "sha256": "f7c12c12e448a307c1f1cf07e884bed9811d816330323d170bed050d674762fa"
+    },
+    {
+      "release_path": "03_REPRODUCIBILITY/PANEL14_V1_1/official_k10_M/result.json",
+      "source_path": "03_REPRODUCIBILITY/PANEL14_V1_1/official_k10_M/result.json",
+      "sha256": "def24f123dbce87657e33c4430284630905a74770565f625e495d3e824ddcce9"
+    },
+    {
+      "release_path": "03_REPRODUCIBILITY/PANEL14_V1_1/official_k10_M/stdout.log",
+      "source_path": "03_REPRODUCIBILITY/PANEL14_V1_1/official_k10_M/stdout.log",
+      "sha256": "f7c12c12e448a307c1f1cf07e884bed9811d816330323d170bed050d674762fa"
+    },
+    {
+      "release_path": "03_REPRODUCIBILITY/PANEL14_V1_1/official_k10_M/timing.json",
+      "source_path": "03_REPRODUCIBILITY/PANEL14_V1_1/official_k10_M/timing.json",
+      "sha256": "0c4af866452ae6805776efbc362954233467e20830d18f48067e25db553c4e20"
+    },
+    {
+      "release_path": "03_REPRODUCIBILITY/PANEL14_V1_1/official_k10_P/environment.json",
+      "source_path": "03_REPRODUCIBILITY/PANEL14_V1_1/official_k10_P/environment.json",
+      "sha256": "fbab1f9c2403ddab3d03a8c7fedd100bd5262c09b1518ed14f96c5c40bd31415"
+    },
+    {
+      "release_path": "03_REPRODUCIBILITY/PANEL14_V1_1/official_k10_P/events.jsonl",
+      "source_path": "03_REPRODUCIBILITY/PANEL14_V1_1/official_k10_P/events.jsonl",
+      "sha256": "d355cc7903a306ca78a5a24b00d92f4a5c373037707a5d1500a794eccb65e305"
+    },
+    {
+      "release_path": "03_REPRODUCIBILITY/PANEL14_V1_1/official_k10_P/result.json",
+      "source_path": "03_REPRODUCIBILITY/PANEL14_V1_1/official_k10_P/result.json",
+      "sha256": "1c63b2682687ede98108541d95dd88402a9e2bf1278380db9b4de066628dfe91"
+    },
+    {
+      "release_path": "03_REPRODUCIBILITY/PANEL14_V1_1/official_k10_P/stdout.log",
+      "source_path": "03_REPRODUCIBILITY/PANEL14_V1_1/official_k10_P/stdout.log",
+      "sha256": "d355cc7903a306ca78a5a24b00d92f4a5c373037707a5d1500a794eccb65e305"
+    },
+    {
+      "release_path": "03_REPRODUCIBILITY/PANEL14_V1_1/official_k10_P/timing.json",
+      "source_path": "03_REPRODUCIBILITY/PANEL14_V1_1/official_k10_P/timing.json",
+      "sha256": "7e7aba835269e79a61b9426540f20763664ac4157f578dc997fa909e1bdd74de"
+    },
+    {
+      "release_path": "03_REPRODUCIBILITY/PANEL14_V1_1/official_k11_M/environment.json",
+      "source_path": "03_REPRODUCIBILITY/PANEL14_V1_1/official_k11_M/environment.json",
+      "sha256": "fbab1f9c2403ddab3d03a8c7fedd100bd5262c09b1518ed14f96c5c40bd31415"
+    },
+    {
+      "release_path": "03_REPRODUCIBILITY/PANEL14_V1_1/official_k11_M/events.jsonl",
+      "source_path": "03_REPRODUCIBILITY/PANEL14_V1_1/official_k11_M/events.jsonl",
+      "sha256": "ce6767925a2cc08049552016832a2eb02c929fa8acf5cd423638b0b3d7e92491"
+    },
+    {
+      "release_path": "03_REPRODUCIBILITY/PANEL14_V1_1/official_k11_M/result.json",
+      "source_path": "03_REPRODUCIBILITY/PANEL14_V1_1/official_k11_M/result.json",
+      "sha256": "c14a2859e22a048b18cad3d8256da0d1004be6f0208374d94578677338e3362a"
+    },
+    {
+      "release_path": "03_REPRODUCIBILITY/PANEL14_V1_1/official_k11_M/stdout.log",
+      "source_path": "03_REPRODUCIBILITY/PANEL14_V1_1/official_k11_M/stdout.log",
+      "sha256": "ce6767925a2cc08049552016832a2eb02c929fa8acf5cd423638b0b3d7e92491"
+    },
+    {
+      "release_path": "03_REPRODUCIBILITY/PANEL14_V1_1/official_k11_M/timing.json",
+      "source_path": "03_REPRODUCIBILITY/PANEL14_V1_1/official_k11_M/timing.json",
+      "sha256": "370453616c1214e31bb464ccade117487c30f57c727b7171dc9fa58e91a8fb6b"
+    },
+    {
+      "release_path": "03_REPRODUCIBILITY/PANEL14_V1_1/official_k11_P/environment.json",
+      "source_path": "03_REPRODUCIBILITY/PANEL14_V1_1/official_k11_P/environment.json",
+      "sha256": "fbab1f9c2403ddab3d03a8c7fedd100bd5262c09b1518ed14f96c5c40bd31415"
+    },
+    {
+      "release_path": "03_REPRODUCIBILITY/PANEL14_V1_1/official_k11_P/events.jsonl",
+      "source_path": "03_REPRODUCIBILITY/PANEL14_V1_1/official_k11_P/events.jsonl",
+      "sha256": "ee04d86ab9b6829825bf11c55946f78ba11eaa62c0e804b223769e42832edbed"
+    },
+    {
+      "release_path": "03_REPRODUCIBILITY/PANEL14_V1_1/official_k11_P/result.json",
+      "source_path": "03_REPRODUCIBILITY/PANEL14_V1_1/official_k11_P/result.json",
+      "sha256": "3e37fcf8ab5352fcd37c707f9e354e62ca91ace059b2ecfc134769f3f3f387a3"
+    },
+    {
+      "release_path": "03_REPRODUCIBILITY/PANEL14_V1_1/official_k11_P/stdout.log",
+      "source_path": "03_REPRODUCIBILITY/PANEL14_V1_1/official_k11_P/stdout.log",
+      "sha256": "ee04d86ab9b6829825bf11c55946f78ba11eaa62c0e804b223769e42832edbed"
+    },
+    {
+      "release_path": "03_REPRODUCIBILITY/PANEL14_V1_1/official_k11_P/timing.json",
+      "source_path": "03_REPRODUCIBILITY/PANEL14_V1_1/official_k11_P/timing.json",
+      "sha256": "929969bc132e4fd215c0e28473baf2bd177d82027f6bf9f176cfac1c91053bf1"
+    },
+    {
+      "release_path": "03_REPRODUCIBILITY/PANEL14_V1_1/official_k12_M/environment.json",
+      "source_path": "03_REPRODUCIBILITY/PANEL14_V1_1/official_k12_M/environment.json",
+      "sha256": "fbab1f9c2403ddab3d03a8c7fedd100bd5262c09b1518ed14f96c5c40bd31415"
+    },
+    {
+      "release_path": "03_REPRODUCIBILITY/PANEL14_V1_1/official_k12_M/events.jsonl",
+      "source_path": "03_REPRODUCIBILITY/PANEL14_V1_1/official_k12_M/events.jsonl",
+      "sha256": "9f561e760b576fe644c9610b194818e7acbff7a6548f87f8629a0ef104937e69"
+    },
+    {
+      "release_path": "03_REPRODUCIBILITY/PANEL14_V1_1/official_k12_M/result.json",
+      "source_path": "03_REPRODUCIBILITY/PANEL14_V1_1/official_k12_M/result.json",
+      "sha256": "be94f863b867c17abd82777ad18cfbf03ce6ec0abab87bbba4596ad96092f323"
+    },
+    {
+      "release_path": "03_REPRODUCIBILITY/PANEL14_V1_1/official_k12_M/stdout.log",
+      "source_path": "03_REPRODUCIBILITY/PANEL14_V1_1/official_k12_M/stdout.log",
+      "sha256": "9f561e760b576fe644c9610b194818e7acbff7a6548f87f8629a0ef104937e69"
+    },
+    {
+      "release_path": "03_REPRODUCIBILITY/PANEL14_V1_1/official_k12_M/timing.json",
+      "source_path": "03_REPRODUCIBILITY/PANEL14_V1_1/official_k12_M/timing.json",
+      "sha256": "c1b2f6f2b6856a37863950f943e90374a939a12e4cbbf522b967ed6e07c5138f"
+    },
+    {
+      "release_path": "03_REPRODUCIBILITY/PANEL14_V1_1/official_k12_P/environment.json",
+      "source_path": "03_REPRODUCIBILITY/PANEL14_V1_1/official_k12_P/environment.json",
+      "sha256": "fbab1f9c2403ddab3d03a8c7fedd100bd5262c09b1518ed14f96c5c40bd31415"
+    },
+    {
+      "release_path": "03_REPRODUCIBILITY/PANEL14_V1_1/official_k12_P/events.jsonl",
+      "source_path": "03_REPRODUCIBILITY/PANEL14_V1_1/official_k12_P/events.jsonl",
+      "sha256": "22d7f5f35fdf0dd7fd8d937ab033e4c00c1b8af90203c25ca37844206c006ec9"
+    },
+    {
+      "release_path": "03_REPRODUCIBILITY/PANEL14_V1_1/official_k12_P/result.json",
+      "source_path": "03_REPRODUCIBILITY/PANEL14_V1_1/official_k12_P/result.json",
+      "sha256": "3224a799a08cb1955be04d55bf5536c3e78f268b8b12fa0a3f40c0153b18d284"
+    },
+    {
+      "release_path": "03_REPRODUCIBILITY/PANEL14_V1_1/official_k12_P/stdout.log",
+      "source_path": "03_REPRODUCIBILITY/PANEL14_V1_1/official_k12_P/stdout.log",
+      "sha256": "22d7f5f35fdf0dd7fd8d937ab033e4c00c1b8af90203c25ca37844206c006ec9"
+    },
+    {
+      "release_path": "03_REPRODUCIBILITY/PANEL14_V1_1/official_k12_P/timing.json",
+      "source_path": "03_REPRODUCIBILITY/PANEL14_V1_1/official_k12_P/timing.json",
+      "sha256": "f7dfd42f20ab765ba1ebc68a675dd7f32ec8fc4d4fb282216e9bb00b8a690efb"
+    },
+    {
+      "release_path": "03_REPRODUCIBILITY/PANEL14_V1_1/official_k13_M/environment.json",
+      "source_path": "03_REPRODUCIBILITY/PANEL14_V1_1/official_k13_M/environment.json",
+      "sha256": "fbab1f9c2403ddab3d03a8c7fedd100bd5262c09b1518ed14f96c5c40bd31415"
+    },
+    {
+      "release_path": "03_REPRODUCIBILITY/PANEL14_V1_1/official_k13_M/events.jsonl",
+      "source_path": "03_REPRODUCIBILITY/PANEL14_V1_1/official_k13_M/events.jsonl",
+      "sha256": "40d1d9182741927bfcecce2b051bbd695980baad6d9d62447b9d805169eda2e5"
+    },
+    {
+      "release_path": "03_REPRODUCIBILITY/PANEL14_V1_1/official_k13_M/result.json",
+      "source_path": "03_REPRODUCIBILITY/PANEL14_V1_1/official_k13_M/result.json",
+      "sha256": "aa8ff56a4c1d76df24908974d521b04e483c572ba18ee055ca01563ef5a898c3"
+    },
+    {
+      "release_path": "03_REPRODUCIBILITY/PANEL14_V1_1/official_k13_M/stdout.log",
+      "source_path": "03_REPRODUCIBILITY/PANEL14_V1_1/official_k13_M/stdout.log",
+      "sha256": "40d1d9182741927bfcecce2b051bbd695980baad6d9d62447b9d805169eda2e5"
+    },
+    {
+      "release_path": "03_REPRODUCIBILITY/PANEL14_V1_1/official_k13_M/timing.json",
+      "source_path": "03_REPRODUCIBILITY/PANEL14_V1_1/official_k13_M/timing.json",
+      "sha256": "03526ee070e8675375375832bd99acd2b6fba3ab6d4a47c8238f8034ed6f5f86"
+    },
+    {
+      "release_path": "03_REPRODUCIBILITY/PANEL14_V1_1/official_k13_P/environment.json",
+      "source_path": "03_REPRODUCIBILITY/PANEL14_V1_1/official_k13_P/environment.json",
+      "sha256": "fbab1f9c2403ddab3d03a8c7fedd100bd5262c09b1518ed14f96c5c40bd31415"
+    },
+    {
+      "release_path": "03_REPRODUCIBILITY/PANEL14_V1_1/official_k13_P/events.jsonl",
+      "source_path": "03_REPRODUCIBILITY/PANEL14_V1_1/official_k13_P/events.jsonl",
+      "sha256": "a8a35cfbb8e502511a125280f9c6295594188ca2b80cb199f5abde219e652bfa"
+    },
+    {
+      "release_path": "03_REPRODUCIBILITY/PANEL14_V1_1/official_k13_P/result.json",
+      "source_path": "03_REPRODUCIBILITY/PANEL14_V1_1/official_k13_P/result.json",
+      "sha256": "59641476d95eb2240fefc62f1bfbc8173c78d2adc9c88b54c88d36e48eb4832b"
+    },
+    {
+      "release_path": "03_REPRODUCIBILITY/PANEL14_V1_1/official_k13_P/stdout.log",
+      "source_path": "03_REPRODUCIBILITY/PANEL14_V1_1/official_k13_P/stdout.log",
+      "sha256": "a8a35cfbb8e502511a125280f9c6295594188ca2b80cb199f5abde219e652bfa"
+    },
+    {
+      "release_path": "03_REPRODUCIBILITY/PANEL14_V1_1/official_k13_P/timing.json",
+      "source_path": "03_REPRODUCIBILITY/PANEL14_V1_1/official_k13_P/timing.json",
+      "sha256": "d0b6650bfe388c071e2103b68d6c6fc08b3946dc93d4ec05bafd520ca6fd3f77"
+    },
+    {
+      "release_path": "03_REPRODUCIBILITY/PANEL14_V1_1/official_k14_M/environment.json",
+      "source_path": "03_REPRODUCIBILITY/PANEL14_V1_1/official_k14_M/environment.json",
+      "sha256": "fbab1f9c2403ddab3d03a8c7fedd100bd5262c09b1518ed14f96c5c40bd31415"
+    },
+    {
+      "release_path": "03_REPRODUCIBILITY/PANEL14_V1_1/official_k14_M/events.jsonl",
+      "source_path": "03_REPRODUCIBILITY/PANEL14_V1_1/official_k14_M/events.jsonl",
+      "sha256": "48771c7ab2a62220ff34ac92c1e94b194f83b4290d0e4f18d9e94cad15ee44d9"
+    },
+    {
+      "release_path": "03_REPRODUCIBILITY/PANEL14_V1_1/official_k14_M/result.json",
+      "source_path": "03_REPRODUCIBILITY/PANEL14_V1_1/official_k14_M/result.json",
+      "sha256": "edb888e1ddbcece9edf685463bbaf2fa51419759bd0a40b489b5f676d6638a53"
+    },
+    {
+      "release_path": "03_REPRODUCIBILITY/PANEL14_V1_1/official_k14_M/stdout.log",
+      "source_path": "03_REPRODUCIBILITY/PANEL14_V1_1/official_k14_M/stdout.log",
+      "sha256": "48771c7ab2a62220ff34ac92c1e94b194f83b4290d0e4f18d9e94cad15ee44d9"
+    },
+    {
+      "release_path": "03_REPRODUCIBILITY/PANEL14_V1_1/official_k14_M/timing.json",
+      "source_path": "03_REPRODUCIBILITY/PANEL14_V1_1/official_k14_M/timing.json",
+      "sha256": "c20e02146a603880fa95684724b080c29c66566fc05609af872d50d870123e84"
+    },
+    {
+      "release_path": "03_REPRODUCIBILITY/PANEL14_V1_1/official_k14_P/environment.json",
+      "source_path": "03_REPRODUCIBILITY/PANEL14_V1_1/official_k14_P/environment.json",
+      "sha256": "fbab1f9c2403ddab3d03a8c7fedd100bd5262c09b1518ed14f96c5c40bd31415"
+    },
+    {
+      "release_path": "03_REPRODUCIBILITY/PANEL14_V1_1/official_k14_P/events.jsonl",
+      "source_path": "03_REPRODUCIBILITY/PANEL14_V1_1/official_k14_P/events.jsonl",
+      "sha256": "c22236f197fb70c86a4f40d0962ae3f8117650adfdedc06748aac35da3f41d4e"
+    },
+    {
+      "release_path": "03_REPRODUCIBILITY/PANEL14_V1_1/official_k14_P/result.json",
+      "source_path": "03_REPRODUCIBILITY/PANEL14_V1_1/official_k14_P/result.json",
+      "sha256": "aa918f33236eaa9d31f4f94ab2db3b408ad6f8c98d25add1889fe01308c9b326"
+    },
+    {
+      "release_path": "03_REPRODUCIBILITY/PANEL14_V1_1/official_k14_P/stdout.log",
+      "source_path": "03_REPRODUCIBILITY/PANEL14_V1_1/official_k14_P/stdout.log",
+      "sha256": "c22236f197fb70c86a4f40d0962ae3f8117650adfdedc06748aac35da3f41d4e"
+    },
+    {
+      "release_path": "03_REPRODUCIBILITY/PANEL14_V1_1/official_k14_P/timing.json",
+      "source_path": "03_REPRODUCIBILITY/PANEL14_V1_1/official_k14_P/timing.json",
+      "sha256": "8e3451b25d338a3f4e53b098da0f2a6fd39a3f9d6e9f55550f5f8c9f00261878"
+    },
+    {
+      "release_path": "03_REPRODUCIBILITY/PANEL14_V1_1/official_k15_M/environment.json",
+      "source_path": "03_REPRODUCIBILITY/PANEL14_V1_1/official_k15_M/environment.json",
+      "sha256": "fbab1f9c2403ddab3d03a8c7fedd100bd5262c09b1518ed14f96c5c40bd31415"
+    },
+    {
+      "release_path": "03_REPRODUCIBILITY/PANEL14_V1_1/official_k15_M/events.jsonl",
+      "source_path": "03_REPRODUCIBILITY/PANEL14_V1_1/official_k15_M/events.jsonl",
+      "sha256": "2ec8c0592a89f2181fca9adce666e1d61a36d759b02247e1ac5f760b6971e594"
+    },
+    {
+      "release_path": "03_REPRODUCIBILITY/PANEL14_V1_1/official_k15_M/result.json",
+      "source_path": "03_REPRODUCIBILITY/PANEL14_V1_1/official_k15_M/result.json",
+      "sha256": "697d8139d3a8596b5a73489c51b946d807125eab2a4cf3510c6d756af87fb07f"
+    },
+    {
+      "release_path": "03_REPRODUCIBILITY/PANEL14_V1_1/official_k15_M/stdout.log",
+      "source_path": "03_REPRODUCIBILITY/PANEL14_V1_1/official_k15_M/stdout.log",
+      "sha256": "2ec8c0592a89f2181fca9adce666e1d61a36d759b02247e1ac5f760b6971e594"
+    },
+    {
+      "release_path": "03_REPRODUCIBILITY/PANEL14_V1_1/official_k15_M/timing.json",
+      "source_path": "03_REPRODUCIBILITY/PANEL14_V1_1/official_k15_M/timing.json",
+      "sha256": "971665268aa49ea14ea2279eada49b7838cd3864260178e72af3b2f5a6d9117e"
+    },
+    {
+      "release_path": "03_REPRODUCIBILITY/PANEL14_V1_1/official_k15_P/environment.json",
+      "source_path": "03_REPRODUCIBILITY/PANEL14_V1_1/official_k15_P/environment.json",
+      "sha256": "fbab1f9c2403ddab3d03a8c7fedd100bd5262c09b1518ed14f96c5c40bd31415"
+    },
+    {
+      "release_path": "03_REPRODUCIBILITY/PANEL14_V1_1/official_k15_P/events.jsonl",
+      "source_path": "03_REPRODUCIBILITY/PANEL14_V1_1/official_k15_P/events.jsonl",
+      "sha256": "8bfb9b2f5b880fded8a0083fc6b3285edf1c46cce1bd4ecf6a913a664e4fff69"
+    },
+    {
+      "release_path": "03_REPRODUCIBILITY/PANEL14_V1_1/official_k15_P/result.json",
+      "source_path": "03_REPRODUCIBILITY/PANEL14_V1_1/official_k15_P/result.json",
+      "sha256": "287b16ddcaa146fad4fbd671b98a8bc4d1d1bd007ba13187f5b64b9d006bf9f0"
+    },
+    {
+      "release_path": "03_REPRODUCIBILITY/PANEL14_V1_1/official_k15_P/stdout.log",
+      "source_path": "03_REPRODUCIBILITY/PANEL14_V1_1/official_k15_P/stdout.log",
+      "sha256": "8bfb9b2f5b880fded8a0083fc6b3285edf1c46cce1bd4ecf6a913a664e4fff69"
+    },
+    {
+      "release_path": "03_REPRODUCIBILITY/PANEL14_V1_1/official_k15_P/timing.json",
+      "source_path": "03_REPRODUCIBILITY/PANEL14_V1_1/official_k15_P/timing.json",
+      "sha256": "a17418745d230a9c9681cf46e6c6c57317bd19b403735a60d868b6eddfc81d7a"
+    },
+    {
+      "release_path": "03_REPRODUCIBILITY/PANEL14_V1_1/official_k16_M/checkpoint_000300.json",
+      "source_path": "03_REPRODUCIBILITY/PANEL14_V1_1/official_k16_M/checkpoint_000300.json",
+      "sha256": "1ef83953427745cafca600cbcf0fb9a12079e07a612bd1250f7bfbabc1bb61e8"
+    },
+    {
+      "release_path": "03_REPRODUCIBILITY/PANEL14_V1_1/official_k16_M/environment.json",
+      "source_path": "03_REPRODUCIBILITY/PANEL14_V1_1/official_k16_M/environment.json",
+      "sha256": "fbab1f9c2403ddab3d03a8c7fedd100bd5262c09b1518ed14f96c5c40bd31415"
+    },
+    {
+      "release_path": "03_REPRODUCIBILITY/PANEL14_V1_1/official_k16_M/events.jsonl",
+      "source_path": "03_REPRODUCIBILITY/PANEL14_V1_1/official_k16_M/events.jsonl",
+      "sha256": "de3036daf36788474864acd919efba74ce776eb8704d50b18f88fc65a303d018"
+    },
+    {
+      "release_path": "03_REPRODUCIBILITY/PANEL14_V1_1/official_k16_M/result.json",
+      "source_path": "03_REPRODUCIBILITY/PANEL14_V1_1/official_k16_M/result.json",
+      "sha256": "7aa844896fe8d695629ac07f2e2edb3188b111327a18c0e8dddb0dca5318cad7"
+    },
+    {
+      "release_path": "03_REPRODUCIBILITY/PANEL14_V1_1/official_k16_M/stdout.log",
+      "source_path": "03_REPRODUCIBILITY/PANEL14_V1_1/official_k16_M/stdout.log",
+      "sha256": "de3036daf36788474864acd919efba74ce776eb8704d50b18f88fc65a303d018"
+    },
+    {
+      "release_path": "03_REPRODUCIBILITY/PANEL14_V1_1/official_k16_M/timing.json",
+      "source_path": "03_REPRODUCIBILITY/PANEL14_V1_1/official_k16_M/timing.json",
+      "sha256": "f6add2e836f14f6def06d09aeabbde35cd0e26a810f144b0113cf0b452e7f708"
+    },
+    {
+      "release_path": "03_REPRODUCIBILITY/PANEL14_V1_1/official_k16_P/environment.json",
+      "source_path": "03_REPRODUCIBILITY/PANEL14_V1_1/official_k16_P/environment.json",
+      "sha256": "fbab1f9c2403ddab3d03a8c7fedd100bd5262c09b1518ed14f96c5c40bd31415"
+    },
+    {
+      "release_path": "03_REPRODUCIBILITY/PANEL14_V1_1/official_k16_P/events.jsonl",
+      "source_path": "03_REPRODUCIBILITY/PANEL14_V1_1/official_k16_P/events.jsonl",
+      "sha256": "f47eaf9fa8e96db21feba29cad705d8cfa3311cf614b1d68f98b02d0066e056b"
+    },
+    {
+      "release_path": "03_REPRODUCIBILITY/PANEL14_V1_1/official_k16_P/result.json",
+      "source_path": "03_REPRODUCIBILITY/PANEL14_V1_1/official_k16_P/result.json",
+      "sha256": "ae947dc6abd738cd502b5e062e60e1ac07cf3a34adfc514ca2335fbaf3cd19c1"
+    },
+    {
+      "release_path": "03_REPRODUCIBILITY/PANEL14_V1_1/official_k16_P/stdout.log",
+      "source_path": "03_REPRODUCIBILITY/PANEL14_V1_1/official_k16_P/stdout.log",
+      "sha256": "f47eaf9fa8e96db21feba29cad705d8cfa3311cf614b1d68f98b02d0066e056b"
+    },
+    {
+      "release_path": "03_REPRODUCIBILITY/PANEL14_V1_1/official_k16_P/timing.json",
+      "source_path": "03_REPRODUCIBILITY/PANEL14_V1_1/official_k16_P/timing.json",
+      "sha256": "ac87dc6ca5ecb6e51df94f82500a29032adca30223a8d9e40ee881ec63c82a9d"
+    },
+    {
+      "release_path": "03_REPRODUCIBILITY/PANEL14_V1_1/official_k18_M/environment.json",
+      "source_path": "03_REPRODUCIBILITY/PANEL14_V1_1/official_k18_M/environment.json",
+      "sha256": "fbab1f9c2403ddab3d03a8c7fedd100bd5262c09b1518ed14f96c5c40bd31415"
+    },
+    {
+      "release_path": "03_REPRODUCIBILITY/PANEL14_V1_1/official_k18_M/events.jsonl",
+      "source_path": "03_REPRODUCIBILITY/PANEL14_V1_1/official_k18_M/events.jsonl",
+      "sha256": "67d6b3c7967b71c982f65bae8ed0d5183dba5b0c454ccd57090a47fe8372c407"
+    },
+    {
+      "release_path": "03_REPRODUCIBILITY/PANEL14_V1_1/official_k18_M/result.json",
+      "source_path": "03_REPRODUCIBILITY/PANEL14_V1_1/official_k18_M/result.json",
+      "sha256": "08452754f9b4a4fc068caa3f5f818e8cc3c8b2fed5eb10c973a96b18c9ed4803"
+    },
+    {
+      "release_path": "03_REPRODUCIBILITY/PANEL14_V1_1/official_k18_M/stdout.log",
+      "source_path": "03_REPRODUCIBILITY/PANEL14_V1_1/official_k18_M/stdout.log",
+      "sha256": "67d6b3c7967b71c982f65bae8ed0d5183dba5b0c454ccd57090a47fe8372c407"
+    },
+    {
+      "release_path": "03_REPRODUCIBILITY/PANEL14_V1_1/official_k18_M/timing.json",
+      "source_path": "03_REPRODUCIBILITY/PANEL14_V1_1/official_k18_M/timing.json",
+      "sha256": "271fa0cdc6e04413fca0e94c13230b2158487127824261c9a32f167178a6cb82"
+    },
+    {
+      "release_path": "03_REPRODUCIBILITY/PANEL14_V1_1/official_k18_P/environment.json",
+      "source_path": "03_REPRODUCIBILITY/PANEL14_V1_1/official_k18_P/environment.json",
+      "sha256": "fbab1f9c2403ddab3d03a8c7fedd100bd5262c09b1518ed14f96c5c40bd31415"
+    },
+    {
+      "release_path": "03_REPRODUCIBILITY/PANEL14_V1_1/official_k18_P/events.jsonl",
+      "source_path": "03_REPRODUCIBILITY/PANEL14_V1_1/official_k18_P/events.jsonl",
+      "sha256": "df976d8c5173b288e4d03fbc3c7d416ac5b98c2fff747a628700d90612cb3010"
+    },
+    {
+      "release_path": "03_REPRODUCIBILITY/PANEL14_V1_1/official_k18_P/result.json",
+      "source_path": "03_REPRODUCIBILITY/PANEL14_V1_1/official_k18_P/result.json",
+      "sha256": "01d959e857cc333acd75c94114db34ce02f88df5a057ed8df5cd162fcdbb530d"
+    },
+    {
+      "release_path": "03_REPRODUCIBILITY/PANEL14_V1_1/official_k18_P/stdout.log",
+      "source_path": "03_REPRODUCIBILITY/PANEL14_V1_1/official_k18_P/stdout.log",
+      "sha256": "df976d8c5173b288e4d03fbc3c7d416ac5b98c2fff747a628700d90612cb3010"
+    },
+    {
+      "release_path": "03_REPRODUCIBILITY/PANEL14_V1_1/official_k18_P/timing.json",
+      "source_path": "03_REPRODUCIBILITY/PANEL14_V1_1/official_k18_P/timing.json",
+      "sha256": "6eb0d2a8499d5b88c75b232860db1f33d89a803264dc0d575fff73f980924078"
+    },
+    {
+      "release_path": "03_REPRODUCIBILITY/PANEL14_V1_1/standard_data_audit/DATA_QA.json",
+      "source_path": "03_REPRODUCIBILITY/PANEL14_V1_1/standard_data_audit/DATA_QA.json",
+      "sha256": "4cb7e69ab1fd107d4a805096c09f71775370b0fed213c9a30f1613a173d0cd93"
+    },
+    {
+      "release_path": "03_REPRODUCIBILITY/PANEL14_V1_1/standard_data_audit/cell_mapping_and_rounding.csv",
+      "source_path": "03_REPRODUCIBILITY/PANEL14_V1_1/standard_data_audit/cell_mapping_and_rounding.csv",
+      "sha256": "d4899d72038a8f752c42d22e887dfb81a62f644fbecd55ebe081209222bf4632"
+    },
+    {
+      "release_path": "03_REPRODUCIBILITY/PANEL14_V1_1/standard_data_audit/processing_times_standard_1decimal.csv",
+      "source_path": "03_REPRODUCIBILITY/PANEL14_V1_1/standard_data_audit/processing_times_standard_1decimal.csv",
+      "sha256": "5f2e0c9bf6f3a0a7465eaf923177ed9767360d49c9a45a6bc7794ae7b6875e56"
+    },
+    {
+      "release_path": "03_REPRODUCIBILITY/PANEL14_V1_1/standard_data_audit/reba_standard.csv",
+      "source_path": "03_REPRODUCIBILITY/PANEL14_V1_1/standard_data_audit/reba_standard.csv",
+      "sha256": "7ceacb04646b152e49a68289d3d4a6c395d0fec6a1669914cd5197a2a1db53a0"
+    },
+    {
+      "release_path": "03_REPRODUCIBILITY/PANEL14_V1_1/validated_runner/FROZEN_SHA256.json",
+      "source_path": "03_REPRODUCIBILITY/PANEL14_V1_1/validated_runner/FROZEN_SHA256.json",
+      "sha256": "1dbcd293e7a46a05355f4fb383728669fdb64c06a64699c52c7a1f47b59e5a6b"
+    },
+    {
+      "release_path": "03_REPRODUCIBILITY/PANEL14_V1_1/validated_runner/TEST_RESULTS.json",
+      "source_path": "03_REPRODUCIBILITY/PANEL14_V1_1/validated_runner/TEST_RESULTS.json",
+      "sha256": "394f90b43a541e5c2131914ff0d5a767cb60aa4faabbdba11539f52bec11bc6f"
+    },
+    {
+      "release_path": "03_REPRODUCIBILITY/PANEL14_V1_1/validated_runner/launch.py",
+      "source_path": "03_REPRODUCIBILITY/PANEL14_V1_1/validated_runner/launch.py",
+      "sha256": "31aca980686e581485c037b9bc85a624d25cc021252c087c2b56676ab9d16d7f"
+    },
+    {
+      "release_path": "03_REPRODUCIBILITY/PANEL14_V1_1/validated_runner/legacy_model.py",
+      "source_path": "03_REPRODUCIBILITY/PANEL14_V1_1/validated_runner/legacy_model.py",
+      "sha256": "f201f664b54e15ae9c254be487b1e6266eecb61fcf2896afe251fc96aee2693d"
+    },
+    {
+      "release_path": "03_REPRODUCIBILITY/PANEL14_V1_1/validated_runner/runner.py",
+      "source_path": "03_REPRODUCIBILITY/PANEL14_V1_1/validated_runner/runner.py",
+      "sha256": "548ceb44a4f55dca30ff0f9bf686a33a87ee9d336fa368d724bc9d03b4ce75f7"
+    },
+    {
+      "release_path": "03_REPRODUCIBILITY/K02_V2_1/RUNS/bounded_v2_1_k02_PAIR_20261021/M/checkpoint_000300.json",
+      "source_path": "03_REPRODUCIBILITY/K02_V2_1/RUNS/bounded_v2_1_k02_PAIR_20261021/M/checkpoint_000300.json",
+      "sha256": "cfbb5e7b1ea41ee5dcee77dc853b4ad40891a97f46c2ef11387e59153cd43a37"
+    },
+    {
+      "release_path": "03_REPRODUCIBILITY/K02_V2_1/RUNS/bounded_v2_1_k02_PAIR_20261021/M/checkpoint_000600.json",
+      "source_path": "03_REPRODUCIBILITY/K02_V2_1/RUNS/bounded_v2_1_k02_PAIR_20261021/M/checkpoint_000600.json",
+      "sha256": "b457c568ca8d061fc54aa1c69729cadafe632a10ce165a3c2964f47ee9656f1a"
+    },
+    {
+      "release_path": "03_REPRODUCIBILITY/K02_V2_1/RUNS/bounded_v2_1_k02_PAIR_20261021/M/checkpoint_000900.json",
+      "source_path": "03_REPRODUCIBILITY/K02_V2_1/RUNS/bounded_v2_1_k02_PAIR_20261021/M/checkpoint_000900.json",
+      "sha256": "311d47e3eea20543ed69ee3067714d156c1048eada143265a42fa6bec6d7c416"
+    },
+    {
+      "release_path": "03_REPRODUCIBILITY/K02_V2_1/RUNS/bounded_v2_1_k02_PAIR_20261021/M/checkpoint_001200.json",
+      "source_path": "03_REPRODUCIBILITY/K02_V2_1/RUNS/bounded_v2_1_k02_PAIR_20261021/M/checkpoint_001200.json",
+      "sha256": "8e159cb7796c1a7cc40e239cac0459bf446ac069ef50db52c7548f42da7a5c37"
+    },
+    {
+      "release_path": "03_REPRODUCIBILITY/K02_V2_1/RUNS/bounded_v2_1_k02_PAIR_20261021/M/checkpoint_001500.json",
+      "source_path": "03_REPRODUCIBILITY/K02_V2_1/RUNS/bounded_v2_1_k02_PAIR_20261021/M/checkpoint_001500.json",
+      "sha256": "542c828a9f5aa168fa7d07fd866dea4b2fc148e9916c6ab0824b4b42aea9de7e"
+    },
+    {
+      "release_path": "03_REPRODUCIBILITY/K02_V2_1/RUNS/bounded_v2_1_k02_PAIR_20261021/M/checkpoint_001800.json",
+      "source_path": "03_REPRODUCIBILITY/K02_V2_1/RUNS/bounded_v2_1_k02_PAIR_20261021/M/checkpoint_001800.json",
+      "sha256": "8c2b2d08dce1ac485898ea31a3368e9b96413ff8795499abe116ca3cf66074a3"
+    },
+    {
+      "release_path": "03_REPRODUCIBILITY/K02_V2_1/RUNS/bounded_v2_1_k02_PAIR_20261021/M/checkpoint_002100.json",
+      "source_path": "03_REPRODUCIBILITY/K02_V2_1/RUNS/bounded_v2_1_k02_PAIR_20261021/M/checkpoint_002100.json",
+      "sha256": "9efd059891bc3e8de57d90b3bf77ee87e5bca0c9dc99db6176a1cf5fe28d4fe4"
+    },
+    {
+      "release_path": "03_REPRODUCIBILITY/K02_V2_1/RUNS/bounded_v2_1_k02_PAIR_20261021/M/environment.json",
+      "source_path": "03_REPRODUCIBILITY/K02_V2_1/RUNS/bounded_v2_1_k02_PAIR_20261021/M/environment.json",
+      "sha256": "fbab1f9c2403ddab3d03a8c7fedd100bd5262c09b1518ed14f96c5c40bd31415"
+    },
+    {
+      "release_path": "03_REPRODUCIBILITY/K02_V2_1/RUNS/bounded_v2_1_k02_PAIR_20261021/M/events.jsonl",
+      "source_path": "03_REPRODUCIBILITY/K02_V2_1/RUNS/bounded_v2_1_k02_PAIR_20261021/M/events.jsonl",
+      "sha256": "5a2d03037ccf650f0a4bcea1ac0f85e93e90b58f8c1df82f3d226f4ae333af6a"
+    },
+    {
+      "release_path": "03_REPRODUCIBILITY/K02_V2_1/RUNS/bounded_v2_1_k02_PAIR_20261021/M/result.json",
+      "source_path": "03_REPRODUCIBILITY/K02_V2_1/RUNS/bounded_v2_1_k02_PAIR_20261021/M/result.json",
+      "sha256": "12e4e06a55a2f16d2f7c9d141ce8588a5568dc790f00d1185d9c029356bf41ce"
+    },
+    {
+      "release_path": "03_REPRODUCIBILITY/K02_V2_1/RUNS/bounded_v2_1_k02_PAIR_20261021/M/state.json",
+      "source_path": "03_REPRODUCIBILITY/K02_V2_1/RUNS/bounded_v2_1_k02_PAIR_20261021/M/state.json",
+      "sha256": "12e4e06a55a2f16d2f7c9d141ce8588a5568dc790f00d1185d9c029356bf41ce"
+    },
+    {
+      "release_path": "03_REPRODUCIBILITY/K02_V2_1/RUNS/bounded_v2_1_k02_PAIR_20261021/M/stdout.log",
+      "source_path": "03_REPRODUCIBILITY/K02_V2_1/RUNS/bounded_v2_1_k02_PAIR_20261021/M/stdout.log",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "release_path": "03_REPRODUCIBILITY/K02_V2_1/RUNS/bounded_v2_1_k02_PAIR_20261021/M/timing.json",
+      "source_path": "03_REPRODUCIBILITY/K02_V2_1/RUNS/bounded_v2_1_k02_PAIR_20261021/M/timing.json",
+      "sha256": "f3e53a4d88b833b4a8cd908d2dcb0ce85757778561cf5749c6da92c982516aad"
+    },
+    {
+      "release_path": "03_REPRODUCIBILITY/K02_V2_1/RUNS/bounded_v2_1_k02_PAIR_20261021/P/checkpoint_000300.json",
+      "source_path": "03_REPRODUCIBILITY/K02_V2_1/RUNS/bounded_v2_1_k02_PAIR_20261021/P/checkpoint_000300.json",
+      "sha256": "69beb18e1ff7b94f3be89a8fab32bf0bd46933df16adb6ee650d74a388016d5b"
+    },
+    {
+      "release_path": "03_REPRODUCIBILITY/K02_V2_1/RUNS/bounded_v2_1_k02_PAIR_20261021/P/checkpoint_000600.json",
+      "source_path": "03_REPRODUCIBILITY/K02_V2_1/RUNS/bounded_v2_1_k02_PAIR_20261021/P/checkpoint_000600.json",
+      "sha256": "1a09325538d4c4c4b7d1d43a19f2e751bf00d276a43ea692fe5588990ecca9f7"
+    },
+    {
+      "release_path": "03_REPRODUCIBILITY/K02_V2_1/RUNS/bounded_v2_1_k02_PAIR_20261021/P/environment.json",
+      "source_path": "03_REPRODUCIBILITY/K02_V2_1/RUNS/bounded_v2_1_k02_PAIR_20261021/P/environment.json",
+      "sha256": "fbab1f9c2403ddab3d03a8c7fedd100bd5262c09b1518ed14f96c5c40bd31415"
+    },
+    {
+      "release_path": "03_REPRODUCIBILITY/K02_V2_1/RUNS/bounded_v2_1_k02_PAIR_20261021/P/events.jsonl",
+      "source_path": "03_REPRODUCIBILITY/K02_V2_1/RUNS/bounded_v2_1_k02_PAIR_20261021/P/events.jsonl",
+      "sha256": "6a6c88869f0166ebfaab92283a39ed4fde99357aac9145dd05e8c3c1f01eee3a"
+    },
+    {
+      "release_path": "03_REPRODUCIBILITY/K02_V2_1/RUNS/bounded_v2_1_k02_PAIR_20261021/P/result.json",
+      "source_path": "03_REPRODUCIBILITY/K02_V2_1/RUNS/bounded_v2_1_k02_PAIR_20261021/P/result.json",
+      "sha256": "05f5c949a89bc3c20a9668aa960457eef8f386d86bbaad793b0afffa88d4a774"
+    },
+    {
+      "release_path": "03_REPRODUCIBILITY/K02_V2_1/RUNS/bounded_v2_1_k02_PAIR_20261021/P/state.json",
+      "source_path": "03_REPRODUCIBILITY/K02_V2_1/RUNS/bounded_v2_1_k02_PAIR_20261021/P/state.json",
+      "sha256": "05f5c949a89bc3c20a9668aa960457eef8f386d86bbaad793b0afffa88d4a774"
+    },
+    {
+      "release_path": "03_REPRODUCIBILITY/K02_V2_1/RUNS/bounded_v2_1_k02_PAIR_20261021/P/stdout.log",
+      "source_path": "03_REPRODUCIBILITY/K02_V2_1/RUNS/bounded_v2_1_k02_PAIR_20261021/P/stdout.log",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "release_path": "03_REPRODUCIBILITY/K02_V2_1/RUNS/bounded_v2_1_k02_PAIR_20261021/P/timing.json",
+      "source_path": "03_REPRODUCIBILITY/K02_V2_1/RUNS/bounded_v2_1_k02_PAIR_20261021/P/timing.json",
+      "sha256": "86d291c73eb7d931914a14131ccff53921eb330927dd7eeb7af5a902229310ce"
+    },
+    {
+      "release_path": "03_REPRODUCIBILITY/K02_V2_1/RUNS/bounded_v2_1_k02_PAIR_20261021/PAIR_STATUS.json",
+      "source_path": "03_REPRODUCIBILITY/K02_V2_1/RUNS/bounded_v2_1_k02_PAIR_20261021/PAIR_STATUS.json",
+      "sha256": "53e9973d2de1c112801c17cb06f9015cdb976ac32318928df8a65c3308ba03f0"
+    },
+    {
+      "release_path": "03_REPRODUCIBILITY/K02_V2_1/bounded_region_v2/DATA_SHA256.json",
+      "source_path": "03_REPRODUCIBILITY/K02_V2_1/bounded_region_v2/DATA_SHA256.json",
+      "sha256": "c850a0c6c6a2982c03c2701a69af79652b65c7185f5bf0fcf7b2128055890b03"
+    },
+    {
+      "release_path": "03_REPRODUCIBILITY/K02_V2_1/bounded_region_v2/FROZEN_SHA256.json",
+      "source_path": "03_REPRODUCIBILITY/K02_V2_1/bounded_region_v2/FROZEN_SHA256.json",
+      "sha256": "7a89bab710c1e16c987d75b051da277a25547b6fd434bb3026ab420aad298166"
+    },
+    {
+      "release_path": "03_REPRODUCIBILITY/K02_V2_1/bounded_region_v2/REAL_CALLBACK_TEST.json",
+      "source_path": "03_REPRODUCIBILITY/K02_V2_1/bounded_region_v2/REAL_CALLBACK_TEST.json",
+      "sha256": "214810c1c88b698fdd278102e0db19cbf4f7dfa58bebaf0a1722bd49242f3d61"
+    },
+    {
+      "release_path": "03_REPRODUCIBILITY/K02_V2_1/bounded_region_v2/TEST_RESULTS.json",
+      "source_path": "03_REPRODUCIBILITY/K02_V2_1/bounded_region_v2/TEST_RESULTS.json",
+      "sha256": "1eead83807edc4205f991e01a3ddf3c925d87f035b5d7aaae302c9e2dd5fd672"
+    },
+    {
+      "release_path": "03_REPRODUCIBILITY/K02_V2_1/bounded_region_v2/TEST_RESULTS_V2_1.json",
+      "source_path": "03_REPRODUCIBILITY/K02_V2_1/bounded_region_v2/TEST_RESULTS_V2_1.json",
+      "sha256": "394f90b43a541e5c2131914ff0d5a767cb60aa4faabbdba11539f52bec11bc6f"
+    },
+    {
+      "release_path": "03_REPRODUCIBILITY/K02_V2_1/bounded_region_v2/bounded.py",
+      "source_path": "03_REPRODUCIBILITY/K02_V2_1/bounded_region_v2/bounded.py",
+      "sha256": "1d5acf2e569fe4b0d321d4740add28335e6043a6502adc2e9848d1752e85774a"
+    },
+    {
+      "release_path": "03_REPRODUCIBILITY/K02_V2_1/bounded_region_v2/launch.py",
+      "source_path": "03_REPRODUCIBILITY/K02_V2_1/bounded_region_v2/launch.py",
+      "sha256": "8c9334b7629571b262befcccf1c8cf729a329164228ca928a866a6fcf26269e0"
+    },
+    {
+      "release_path": "03_REPRODUCIBILITY/K02_V2_1/bounded_region_v2/legacy_model.py",
+      "source_path": "03_REPRODUCIBILITY/K02_V2_1/bounded_region_v2/legacy_model.py",
+      "sha256": "f201f664b54e15ae9c254be487b1e6266eecb61fcf2896afe251fc96aee2693d"
+    },
+    {
+      "release_path": "03_REPRODUCIBILITY/K02_V2_1/bounded_region_v2/run_pair.py",
+      "source_path": "03_REPRODUCIBILITY/K02_V2_1/bounded_region_v2/run_pair.py",
+      "sha256": "82585cf68bbf2a5fd00087ad1a4cd55435fbbf26aa889fd50cc5d49748222bfb"
+    },
+    {
+      "release_path": "03_REPRODUCIBILITY/K02_V2_1/bounded_region_v2/runner.py",
+      "source_path": "03_REPRODUCIBILITY/K02_V2_1/bounded_region_v2/runner.py",
+      "sha256": "548ceb44a4f55dca30ff0f9bf686a33a87ee9d336fa368d724bc9d03b4ce75f7"
+    },
+    {
+      "release_path": "03_REPRODUCIBILITY/K02_V2_1/bounded_region_v2/test_bounded.py",
+      "source_path": "03_REPRODUCIBILITY/K02_V2_1/bounded_region_v2/test_bounded.py",
+      "sha256": "df767d80600d4033f35a75ec87924989b2758d7b8022da62375f463e7ba470e9"
+    },
+    {
+      "release_path": "03_REPRODUCIBILITY/K02_V2_1/standard_data_audit/processing_times_standard_1decimal.csv",
+      "source_path": "03_REPRODUCIBILITY/K02_V2_1/standard_data_audit/processing_times_standard_1decimal.csv",
+      "sha256": "5f2e0c9bf6f3a0a7465eaf923177ed9767360d49c9a45a6bc7794ae7b6875e56"
+    },
+    {
+      "release_path": "03_REPRODUCIBILITY/K02_V2_1/standard_data_audit/reba_standard.csv",
+      "source_path": "03_REPRODUCIBILITY/K02_V2_1/standard_data_audit/reba_standard.csv",
+      "sha256": "7ceacb04646b152e49a68289d3d4a6c395d0fec6a1669914cd5197a2a1db53a0"
+    },
+    {
+      "release_path": "03_REPRODUCIBILITY/K05_V2_1/K05_DELIVERY/K05_TARGETED_AUDIT_2026-10-22/K5_CAP692_TARGETED_AUDIT.json",
+      "source_path": "03_REPRODUCIBILITY/K05_V2_1/K05_DELIVERY/K05_TARGETED_AUDIT_2026-10-22/K5_CAP692_TARGETED_AUDIT.json",
+      "sha256": "30d79b0bf78af1633d99a96e4ff4c55d392b509a0fb67c31f6d2efb35b1966c3"
+    },
+    {
+      "release_path": "03_REPRODUCIBILITY/K05_V2_1/K05_DELIVERY/K05_TARGETED_AUDIT_2026-10-22/audit_k5_cap692.py",
+      "source_path": "03_REPRODUCIBILITY/K05_V2_1/K05_DELIVERY/K05_TARGETED_AUDIT_2026-10-22/audit_k5_cap692.py",
+      "sha256": "a3541be784d9d48e959a3bb0751df4b73a6b9ca303e54d1613473e291dfd5b63"
+    },
+    {
+      "release_path": "03_REPRODUCIBILITY/K05_V2_1/RUNS/bounded_v2_1_k05_PAIR_20261021/M/checkpoint_000300.json",
+      "source_path": "03_REPRODUCIBILITY/K05_V2_1/RUNS/bounded_v2_1_k05_PAIR_20261021/M/checkpoint_000300.json",
+      "sha256": "51a2d29d3e9f8164caecc9c28a9059ff66ba99c801b766f9b228a426e5276b5a"
+    },
+    {
+      "release_path": "03_REPRODUCIBILITY/K05_V2_1/RUNS/bounded_v2_1_k05_PAIR_20261021/M/checkpoint_000600.json",
+      "source_path": "03_REPRODUCIBILITY/K05_V2_1/RUNS/bounded_v2_1_k05_PAIR_20261021/M/checkpoint_000600.json",
+      "sha256": "5c7c144945deed9b047e5880e55d80153ef537f27acde455b9c3f4e971d815b3"
+    },
+    {
+      "release_path": "03_REPRODUCIBILITY/K05_V2_1/RUNS/bounded_v2_1_k05_PAIR_20261021/M/checkpoint_000900.json",
+      "source_path": "03_REPRODUCIBILITY/K05_V2_1/RUNS/bounded_v2_1_k05_PAIR_20261021/M/checkpoint_000900.json",
+      "sha256": "73f6c9ab5de37238c9c36a82fb55dca149ac472a2a0d4ffab0aa9526f133c06d"
+    },
+    {
+      "release_path": "03_REPRODUCIBILITY/K05_V2_1/RUNS/bounded_v2_1_k05_PAIR_20261021/M/checkpoint_001200.json",
+      "source_path": "03_REPRODUCIBILITY/K05_V2_1/RUNS/bounded_v2_1_k05_PAIR_20261021/M/checkpoint_001200.json",
+      "sha256": "26e84e2ed2a0d7cf8b5093964bf350db65d91d1f098261937eb4b2555ba8a30a"
+    },
+    {
+      "release_path": "03_REPRODUCIBILITY/K05_V2_1/RUNS/bounded_v2_1_k05_PAIR_20261021/M/checkpoint_001500.json",
+      "source_path": "03_REPRODUCIBILITY/K05_V2_1/RUNS/bounded_v2_1_k05_PAIR_20261021/M/checkpoint_001500.json",
+      "sha256": "2e359a393b999072ccaa51498614fe0ca4440760b75b071cc1aef2ca54f238a9"
+    },
+    {
+      "release_path": "03_REPRODUCIBILITY/K05_V2_1/RUNS/bounded_v2_1_k05_PAIR_20261021/M/checkpoint_001800.json",
+      "source_path": "03_REPRODUCIBILITY/K05_V2_1/RUNS/bounded_v2_1_k05_PAIR_20261021/M/checkpoint_001800.json",
+      "sha256": "5067adb14e1371bd8fca612f840242811e807c2af338296321ffc198406c9cf2"
+    },
+    {
+      "release_path": "03_REPRODUCIBILITY/K05_V2_1/RUNS/bounded_v2_1_k05_PAIR_20261021/M/checkpoint_002100.json",
+      "source_path": "03_REPRODUCIBILITY/K05_V2_1/RUNS/bounded_v2_1_k05_PAIR_20261021/M/checkpoint_002100.json",
+      "sha256": "a5756910d493927b54f2421bf4a56e3ef9dae2a47661cdc7322b6258dcfe27bf"
+    },
+    {
+      "release_path": "03_REPRODUCIBILITY/K05_V2_1/RUNS/bounded_v2_1_k05_PAIR_20261021/M/environment.json",
+      "source_path": "03_REPRODUCIBILITY/K05_V2_1/RUNS/bounded_v2_1_k05_PAIR_20261021/M/environment.json",
+      "sha256": "fbab1f9c2403ddab3d03a8c7fedd100bd5262c09b1518ed14f96c5c40bd31415"
+    },
+    {
+      "release_path": "03_REPRODUCIBILITY/K05_V2_1/RUNS/bounded_v2_1_k05_PAIR_20261021/M/events.jsonl",
+      "source_path": "03_REPRODUCIBILITY/K05_V2_1/RUNS/bounded_v2_1_k05_PAIR_20261021/M/events.jsonl",
+      "sha256": "b3a86693d5c7063d31d06fc4149b6b929f21bac1dbc53c31e4eb29f39b6198bf"
+    },
+    {
+      "release_path": "03_REPRODUCIBILITY/K05_V2_1/RUNS/bounded_v2_1_k05_PAIR_20261021/M/result.json",
+      "source_path": "03_REPRODUCIBILITY/K05_V2_1/RUNS/bounded_v2_1_k05_PAIR_20261021/M/result.json",
+      "sha256": "eb1467cab417efec80e171bd681a270bc9457f3e50ad267495d9bc956089d0e7"
+    },
+    {
+      "release_path": "03_REPRODUCIBILITY/K05_V2_1/RUNS/bounded_v2_1_k05_PAIR_20261021/M/state.json",
+      "source_path": "03_REPRODUCIBILITY/K05_V2_1/RUNS/bounded_v2_1_k05_PAIR_20261021/M/state.json",
+      "sha256": "eb1467cab417efec80e171bd681a270bc9457f3e50ad267495d9bc956089d0e7"
+    },
+    {
+      "release_path": "03_REPRODUCIBILITY/K05_V2_1/RUNS/bounded_v2_1_k05_PAIR_20261021/M/stdout.log",
+      "source_path": "03_REPRODUCIBILITY/K05_V2_1/RUNS/bounded_v2_1_k05_PAIR_20261021/M/stdout.log",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "release_path": "03_REPRODUCIBILITY/K05_V2_1/RUNS/bounded_v2_1_k05_PAIR_20261021/M/timing.json",
+      "source_path": "03_REPRODUCIBILITY/K05_V2_1/RUNS/bounded_v2_1_k05_PAIR_20261021/M/timing.json",
+      "sha256": "ad7e7bf00e4f052799af8342c921c821995c71008434f0d0ce4074807adaf013"
+    },
+    {
+      "release_path": "03_REPRODUCIBILITY/K05_V2_1/RUNS/bounded_v2_1_k05_PAIR_20261021/P/checkpoint_000300.json",
+      "source_path": "03_REPRODUCIBILITY/K05_V2_1/RUNS/bounded_v2_1_k05_PAIR_20261021/P/checkpoint_000300.json",
+      "sha256": "2deb80e70020f22d45f97f0dcbed4baaec8236bed891c6944f7d1841fc19be57"
+    },
+    {
+      "release_path": "03_REPRODUCIBILITY/K05_V2_1/RUNS/bounded_v2_1_k05_PAIR_20261021/P/environment.json",
+      "source_path": "03_REPRODUCIBILITY/K05_V2_1/RUNS/bounded_v2_1_k05_PAIR_20261021/P/environment.json",
+      "sha256": "fbab1f9c2403ddab3d03a8c7fedd100bd5262c09b1518ed14f96c5c40bd31415"
+    },
+    {
+      "release_path": "03_REPRODUCIBILITY/K05_V2_1/RUNS/bounded_v2_1_k05_PAIR_20261021/P/events.jsonl",
+      "source_path": "03_REPRODUCIBILITY/K05_V2_1/RUNS/bounded_v2_1_k05_PAIR_20261021/P/events.jsonl",
+      "sha256": "52dcf84b1b1eca4eaca179ad8dcb4d1cfce1baedc4db30925c0b69ea10e0bd0e"
+    },
+    {
+      "release_path": "03_REPRODUCIBILITY/K05_V2_1/RUNS/bounded_v2_1_k05_PAIR_20261021/P/result.json",
+      "source_path": "03_REPRODUCIBILITY/K05_V2_1/RUNS/bounded_v2_1_k05_PAIR_20261021/P/result.json",
+      "sha256": "42b5326c63d7443773a24f711426d42460426f0fe048014d2c6b9bb72f094d49"
+    },
+    {
+      "release_path": "03_REPRODUCIBILITY/K05_V2_1/RUNS/bounded_v2_1_k05_PAIR_20261021/P/state.json",
+      "source_path": "03_REPRODUCIBILITY/K05_V2_1/RUNS/bounded_v2_1_k05_PAIR_20261021/P/state.json",
+      "sha256": "42b5326c63d7443773a24f711426d42460426f0fe048014d2c6b9bb72f094d49"
+    },
+    {
+      "release_path": "03_REPRODUCIBILITY/K05_V2_1/RUNS/bounded_v2_1_k05_PAIR_20261021/P/stdout.log",
+      "source_path": "03_REPRODUCIBILITY/K05_V2_1/RUNS/bounded_v2_1_k05_PAIR_20261021/P/stdout.log",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "release_path": "03_REPRODUCIBILITY/K05_V2_1/RUNS/bounded_v2_1_k05_PAIR_20261021/P/timing.json",
+      "source_path": "03_REPRODUCIBILITY/K05_V2_1/RUNS/bounded_v2_1_k05_PAIR_20261021/P/timing.json",
+      "sha256": "383df0929630e28a884359703d32337f3282f34e10ee6f389933abdff67f8ec8"
+    },
+    {
+      "release_path": "03_REPRODUCIBILITY/K05_V2_1/RUNS/bounded_v2_1_k05_PAIR_20261021/PAIR_STATUS.json",
+      "source_path": "03_REPRODUCIBILITY/K05_V2_1/RUNS/bounded_v2_1_k05_PAIR_20261021/PAIR_STATUS.json",
+      "sha256": "df7350974ef909077f52eade64e84fd7dc873499ff1039f314ac3b3341eac79e"
+    },
+    {
+      "release_path": "03_REPRODUCIBILITY/K05_V2_1/bounded_region_v2/DATA_SHA256.json",
+      "source_path": "03_REPRODUCIBILITY/K05_V2_1/bounded_region_v2/DATA_SHA256.json",
+      "sha256": "c850a0c6c6a2982c03c2701a69af79652b65c7185f5bf0fcf7b2128055890b03"
+    },
+    {
+      "release_path": "03_REPRODUCIBILITY/K05_V2_1/bounded_region_v2/FROZEN_SHA256.json",
+      "source_path": "03_REPRODUCIBILITY/K05_V2_1/bounded_region_v2/FROZEN_SHA256.json",
+      "sha256": "7a89bab710c1e16c987d75b051da277a25547b6fd434bb3026ab420aad298166"
+    },
+    {
+      "release_path": "03_REPRODUCIBILITY/K05_V2_1/bounded_region_v2/REAL_CALLBACK_TEST.json",
+      "source_path": "03_REPRODUCIBILITY/K05_V2_1/bounded_region_v2/REAL_CALLBACK_TEST.json",
+      "sha256": "214810c1c88b698fdd278102e0db19cbf4f7dfa58bebaf0a1722bd49242f3d61"
+    },
+    {
+      "release_path": "03_REPRODUCIBILITY/K05_V2_1/bounded_region_v2/TEST_RESULTS.json",
+      "source_path": "03_REPRODUCIBILITY/K05_V2_1/bounded_region_v2/TEST_RESULTS.json",
+      "sha256": "1eead83807edc4205f991e01a3ddf3c925d87f035b5d7aaae302c9e2dd5fd672"
+    },
+    {
+      "release_path": "03_REPRODUCIBILITY/K05_V2_1/bounded_region_v2/TEST_RESULTS_V2_1.json",
+      "source_path": "03_REPRODUCIBILITY/K05_V2_1/bounded_region_v2/TEST_RESULTS_V2_1.json",
+      "sha256": "394f90b43a541e5c2131914ff0d5a767cb60aa4faabbdba11539f52bec11bc6f"
+    },
+    {
+      "release_path": "03_REPRODUCIBILITY/K05_V2_1/bounded_region_v2/TEST_RESULTS_V2_1_K05.json",
+      "source_path": "03_REPRODUCIBILITY/K05_V2_1/bounded_region_v2/TEST_RESULTS_V2_1_K05.json",
+      "sha256": "394f90b43a541e5c2131914ff0d5a767cb60aa4faabbdba11539f52bec11bc6f"
+    },
+    {
+      "release_path": "03_REPRODUCIBILITY/K05_V2_1/bounded_region_v2/bounded.py",
+      "source_path": "03_REPRODUCIBILITY/K05_V2_1/bounded_region_v2/bounded.py",
+      "sha256": "1d5acf2e569fe4b0d321d4740add28335e6043a6502adc2e9848d1752e85774a"
+    },
+    {
+      "release_path": "03_REPRODUCIBILITY/K05_V2_1/bounded_region_v2/launch.py",
+      "source_path": "03_REPRODUCIBILITY/K05_V2_1/bounded_region_v2/launch.py",
+      "sha256": "8c9334b7629571b262befcccf1c8cf729a329164228ca928a866a6fcf26269e0"
+    },
+    {
+      "release_path": "03_REPRODUCIBILITY/K05_V2_1/bounded_region_v2/legacy_model.py",
+      "source_path": "03_REPRODUCIBILITY/K05_V2_1/bounded_region_v2/legacy_model.py",
+      "sha256": "f201f664b54e15ae9c254be487b1e6266eecb61fcf2896afe251fc96aee2693d"
+    },
+    {
+      "release_path": "03_REPRODUCIBILITY/K05_V2_1/bounded_region_v2/run_pair.py",
+      "source_path": "03_REPRODUCIBILITY/K05_V2_1/bounded_region_v2/run_pair.py",
+      "sha256": "82585cf68bbf2a5fd00087ad1a4cd55435fbbf26aa889fd50cc5d49748222bfb"
+    },
+    {
+      "release_path": "03_REPRODUCIBILITY/K05_V2_1/bounded_region_v2/runner.py",
+      "source_path": "03_REPRODUCIBILITY/K05_V2_1/bounded_region_v2/runner.py",
+      "sha256": "548ceb44a4f55dca30ff0f9bf686a33a87ee9d336fa368d724bc9d03b4ce75f7"
+    },
+    {
+      "release_path": "03_REPRODUCIBILITY/K05_V2_1/bounded_region_v2/test_bounded.py",
+      "source_path": "03_REPRODUCIBILITY/K05_V2_1/bounded_region_v2/test_bounded.py",
+      "sha256": "df767d80600d4033f35a75ec87924989b2758d7b8022da62375f463e7ba470e9"
+    },
+    {
+      "release_path": "03_REPRODUCIBILITY/K05_V2_1/standard_data_audit/processing_times_standard_1decimal.csv",
+      "source_path": "03_REPRODUCIBILITY/K05_V2_1/standard_data_audit/processing_times_standard_1decimal.csv",
+      "sha256": "5f2e0c9bf6f3a0a7465eaf923177ed9767360d49c9a45a6bc7794ae7b6875e56"
+    },
+    {
+      "release_path": "03_REPRODUCIBILITY/K05_V2_1/standard_data_audit/reba_standard.csv",
+      "source_path": "03_REPRODUCIBILITY/K05_V2_1/standard_data_audit/reba_standard.csv",
+      "sha256": "7ceacb04646b152e49a68289d3d4a6c395d0fec6a1669914cd5197a2a1db53a0"
+    },
+    {
+      "release_path": "03_REPRODUCIBILITY/K06_V2_1/RUNS/bounded_v2_1_k06_PAIR_20261022/M/checkpoint_000300.json",
+      "source_path": "03_REPRODUCIBILITY/K06_V2_1/RUNS/bounded_v2_1_k06_PAIR_20261022/M/checkpoint_000300.json",
+      "sha256": "10c81144c1411088e6ee7cb0e6b684f3e4d634a98121f001f3de9c3ff0a896d5"
+    },
+    {
+      "release_path": "03_REPRODUCIBILITY/K06_V2_1/RUNS/bounded_v2_1_k06_PAIR_20261022/M/checkpoint_000600.json",
+      "source_path": "03_REPRODUCIBILITY/K06_V2_1/RUNS/bounded_v2_1_k06_PAIR_20261022/M/checkpoint_000600.json",
+      "sha256": "7d00abe20b30d5d6baaab7cc5aae85991307efae25798a0aca91ee5e186f2693"
+    },
+    {
+      "release_path": "03_REPRODUCIBILITY/K06_V2_1/RUNS/bounded_v2_1_k06_PAIR_20261022/M/checkpoint_000900.json",
+      "source_path": "03_REPRODUCIBILITY/K06_V2_1/RUNS/bounded_v2_1_k06_PAIR_20261022/M/checkpoint_000900.json",
+      "sha256": "3bd43086eb3fc1aa9edb57d61a2aeaa878f1cebc33bb95c816717234ec419b08"
+    },
+    {
+      "release_path": "03_REPRODUCIBILITY/K06_V2_1/RUNS/bounded_v2_1_k06_PAIR_20261022/M/checkpoint_001200.json",
+      "source_path": "03_REPRODUCIBILITY/K06_V2_1/RUNS/bounded_v2_1_k06_PAIR_20261022/M/checkpoint_001200.json",
+      "sha256": "576c23fb0a82043cbb7d3fe2f56f5315b1cde7d2d9f295a05e46a585be496c0a"
+    },
+    {
+      "release_path": "03_REPRODUCIBILITY/K06_V2_1/RUNS/bounded_v2_1_k06_PAIR_20261022/M/checkpoint_001500.json",
+      "source_path": "03_REPRODUCIBILITY/K06_V2_1/RUNS/bounded_v2_1_k06_PAIR_20261022/M/checkpoint_001500.json",
+      "sha256": "8c9d8ebd237abd9940178fda08842ea59f8862b137c641a5d4c2c5a2b94d8622"
+    },
+    {
+      "release_path": "03_REPRODUCIBILITY/K06_V2_1/RUNS/bounded_v2_1_k06_PAIR_20261022/M/checkpoint_001800.json",
+      "source_path": "03_REPRODUCIBILITY/K06_V2_1/RUNS/bounded_v2_1_k06_PAIR_20261022/M/checkpoint_001800.json",
+      "sha256": "eb7e6beeeb620a28767245cc4cdd90733f55df307d1a8e17203eec3cf70cbb19"
+    },
+    {
+      "release_path": "03_REPRODUCIBILITY/K06_V2_1/RUNS/bounded_v2_1_k06_PAIR_20261022/M/environment.json",
+      "source_path": "03_REPRODUCIBILITY/K06_V2_1/RUNS/bounded_v2_1_k06_PAIR_20261022/M/environment.json",
+      "sha256": "fbab1f9c2403ddab3d03a8c7fedd100bd5262c09b1518ed14f96c5c40bd31415"
+    },
+    {
+      "release_path": "03_REPRODUCIBILITY/K06_V2_1/RUNS/bounded_v2_1_k06_PAIR_20261022/M/events.jsonl",
+      "source_path": "03_REPRODUCIBILITY/K06_V2_1/RUNS/bounded_v2_1_k06_PAIR_20261022/M/events.jsonl",
+      "sha256": "64eee02d8042165cafc1396f4395ffa8b8418fc56a989bf01869b92c8091a77f"
+    },
+    {
+      "release_path": "03_REPRODUCIBILITY/K06_V2_1/RUNS/bounded_v2_1_k06_PAIR_20261022/M/result.json",
+      "source_path": "03_REPRODUCIBILITY/K06_V2_1/RUNS/bounded_v2_1_k06_PAIR_20261022/M/result.json",
+      "sha256": "fbb9564df3115e6338caff1bd92177cffac3fae68d610426d9ea0c28dab59247"
+    },
+    {
+      "release_path": "03_REPRODUCIBILITY/K06_V2_1/RUNS/bounded_v2_1_k06_PAIR_20261022/M/state.json",
+      "source_path": "03_REPRODUCIBILITY/K06_V2_1/RUNS/bounded_v2_1_k06_PAIR_20261022/M/state.json",
+      "sha256": "fbb9564df3115e6338caff1bd92177cffac3fae68d610426d9ea0c28dab59247"
+    },
+    {
+      "release_path": "03_REPRODUCIBILITY/K06_V2_1/RUNS/bounded_v2_1_k06_PAIR_20261022/M/stdout.log",
+      "source_path": "03_REPRODUCIBILITY/K06_V2_1/RUNS/bounded_v2_1_k06_PAIR_20261022/M/stdout.log",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "release_path": "03_REPRODUCIBILITY/K06_V2_1/RUNS/bounded_v2_1_k06_PAIR_20261022/M/timing.json",
+      "source_path": "03_REPRODUCIBILITY/K06_V2_1/RUNS/bounded_v2_1_k06_PAIR_20261022/M/timing.json",
+      "sha256": "01c44ece65d5b425867b2cd3e58f6ec2317e368c94f5d69d2be781f83f300b19"
+    },
+    {
+      "release_path": "03_REPRODUCIBILITY/K06_V2_1/RUNS/bounded_v2_1_k06_PAIR_20261022/P/checkpoint_000300.json",
+      "source_path": "03_REPRODUCIBILITY/K06_V2_1/RUNS/bounded_v2_1_k06_PAIR_20261022/P/checkpoint_000300.json",
+      "sha256": "cfa4adcba7ddea2ee965698ec29ca5208edf24c9dce4f2189128532079951790"
+    },
+    {
+      "release_path": "03_REPRODUCIBILITY/K06_V2_1/RUNS/bounded_v2_1_k06_PAIR_20261022/P/environment.json",
+      "source_path": "03_REPRODUCIBILITY/K06_V2_1/RUNS/bounded_v2_1_k06_PAIR_20261022/P/environment.json",
+      "sha256": "fbab1f9c2403ddab3d03a8c7fedd100bd5262c09b1518ed14f96c5c40bd31415"
+    },
+    {
+      "release_path": "03_REPRODUCIBILITY/K06_V2_1/RUNS/bounded_v2_1_k06_PAIR_20261022/P/events.jsonl",
+      "source_path": "03_REPRODUCIBILITY/K06_V2_1/RUNS/bounded_v2_1_k06_PAIR_20261022/P/events.jsonl",
+      "sha256": "f0bb1b14e139eedb099f3765cb457687e79bfa12e18687d9e5208c290c335036"
+    },
+    {
+      "release_path": "03_REPRODUCIBILITY/K06_V2_1/RUNS/bounded_v2_1_k06_PAIR_20261022/P/result.json",
+      "source_path": "03_REPRODUCIBILITY/K06_V2_1/RUNS/bounded_v2_1_k06_PAIR_20261022/P/result.json",
+      "sha256": "b412252855b30c2c0bbd90a38ec52937dc9f49e8d8c552aab6d734a04d6d816f"
+    },
+    {
+      "release_path": "03_REPRODUCIBILITY/K06_V2_1/RUNS/bounded_v2_1_k06_PAIR_20261022/P/state.json",
+      "source_path": "03_REPRODUCIBILITY/K06_V2_1/RUNS/bounded_v2_1_k06_PAIR_20261022/P/state.json",
+      "sha256": "b412252855b30c2c0bbd90a38ec52937dc9f49e8d8c552aab6d734a04d6d816f"
+    },
+    {
+      "release_path": "03_REPRODUCIBILITY/K06_V2_1/RUNS/bounded_v2_1_k06_PAIR_20261022/P/stdout.log",
+      "source_path": "03_REPRODUCIBILITY/K06_V2_1/RUNS/bounded_v2_1_k06_PAIR_20261022/P/stdout.log",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "release_path": "03_REPRODUCIBILITY/K06_V2_1/RUNS/bounded_v2_1_k06_PAIR_20261022/P/timing.json",
+      "source_path": "03_REPRODUCIBILITY/K06_V2_1/RUNS/bounded_v2_1_k06_PAIR_20261022/P/timing.json",
+      "sha256": "93e2c76ebac3100413aed96eae6b6d75c332464d057e7cb2018b9433d82e8eca"
+    },
+    {
+      "release_path": "03_REPRODUCIBILITY/K06_V2_1/RUNS/bounded_v2_1_k06_PAIR_20261022/PAIR_STATUS.json",
+      "source_path": "03_REPRODUCIBILITY/K06_V2_1/RUNS/bounded_v2_1_k06_PAIR_20261022/PAIR_STATUS.json",
+      "sha256": "260c70c6e33b80a53d3bf623f1afc6f06c464a2a15aa8c387c41410512602435"
+    },
+    {
+      "release_path": "03_REPRODUCIBILITY/K06_V2_1/bounded_region_v2/DATA_SHA256.json",
+      "source_path": "03_REPRODUCIBILITY/K06_V2_1/bounded_region_v2/DATA_SHA256.json",
+      "sha256": "c850a0c6c6a2982c03c2701a69af79652b65c7185f5bf0fcf7b2128055890b03"
+    },
+    {
+      "release_path": "03_REPRODUCIBILITY/K06_V2_1/bounded_region_v2/FROZEN_SHA256.json",
+      "source_path": "03_REPRODUCIBILITY/K06_V2_1/bounded_region_v2/FROZEN_SHA256.json",
+      "sha256": "7a89bab710c1e16c987d75b051da277a25547b6fd434bb3026ab420aad298166"
+    },
+    {
+      "release_path": "03_REPRODUCIBILITY/K06_V2_1/bounded_region_v2/REAL_CALLBACK_TEST.json",
+      "source_path": "03_REPRODUCIBILITY/K06_V2_1/bounded_region_v2/REAL_CALLBACK_TEST.json",
+      "sha256": "214810c1c88b698fdd278102e0db19cbf4f7dfa58bebaf0a1722bd49242f3d61"
+    },
+    {
+      "release_path": "03_REPRODUCIBILITY/K06_V2_1/bounded_region_v2/TEST_RESULTS.json",
+      "source_path": "03_REPRODUCIBILITY/K06_V2_1/bounded_region_v2/TEST_RESULTS.json",
+      "sha256": "1eead83807edc4205f991e01a3ddf3c925d87f035b5d7aaae302c9e2dd5fd672"
+    },
+    {
+      "release_path": "03_REPRODUCIBILITY/K06_V2_1/bounded_region_v2/TEST_RESULTS_V2_1.json",
+      "source_path": "03_REPRODUCIBILITY/K06_V2_1/bounded_region_v2/TEST_RESULTS_V2_1.json",
+      "sha256": "394f90b43a541e5c2131914ff0d5a767cb60aa4faabbdba11539f52bec11bc6f"
+    },
+    {
+      "release_path": "03_REPRODUCIBILITY/K06_V2_1/bounded_region_v2/bounded.py",
+      "source_path": "03_REPRODUCIBILITY/K06_V2_1/bounded_region_v2/bounded.py",
+      "sha256": "1d5acf2e569fe4b0d321d4740add28335e6043a6502adc2e9848d1752e85774a"
+    },
+    {
+      "release_path": "03_REPRODUCIBILITY/K06_V2_1/bounded_region_v2/launch.py",
+      "source_path": "03_REPRODUCIBILITY/K06_V2_1/bounded_region_v2/launch.py",
+      "sha256": "8c9334b7629571b262befcccf1c8cf729a329164228ca928a866a6fcf26269e0"
+    },
+    {
+      "release_path": "03_REPRODUCIBILITY/K06_V2_1/bounded_region_v2/legacy_model.py",
+      "source_path": "03_REPRODUCIBILITY/K06_V2_1/bounded_region_v2/legacy_model.py",
+      "sha256": "f201f664b54e15ae9c254be487b1e6266eecb61fcf2896afe251fc96aee2693d"
+    },
+    {
+      "release_path": "03_REPRODUCIBILITY/K06_V2_1/bounded_region_v2/run_pair.py",
+      "source_path": "03_REPRODUCIBILITY/K06_V2_1/bounded_region_v2/run_pair.py",
+      "sha256": "82585cf68bbf2a5fd00087ad1a4cd55435fbbf26aa889fd50cc5d49748222bfb"
+    },
+    {
+      "release_path": "03_REPRODUCIBILITY/K06_V2_1/bounded_region_v2/runner.py",
+      "source_path": "03_REPRODUCIBILITY/K06_V2_1/bounded_region_v2/runner.py",
+      "sha256": "548ceb44a4f55dca30ff0f9bf686a33a87ee9d336fa368d724bc9d03b4ce75f7"
+    },
+    {
+      "release_path": "03_REPRODUCIBILITY/K06_V2_1/bounded_region_v2/test_bounded.py",
+      "source_path": "03_REPRODUCIBILITY/K06_V2_1/bounded_region_v2/test_bounded.py",
+      "sha256": "df767d80600d4033f35a75ec87924989b2758d7b8022da62375f463e7ba470e9"
+    },
+    {
+      "release_path": "03_REPRODUCIBILITY/K06_V2_1/standard_data_audit/processing_times_standard_1decimal.csv",
+      "source_path": "03_REPRODUCIBILITY/K06_V2_1/standard_data_audit/processing_times_standard_1decimal.csv",
+      "sha256": "5f2e0c9bf6f3a0a7465eaf923177ed9767360d49c9a45a6bc7794ae7b6875e56"
+    },
+    {
+      "release_path": "03_REPRODUCIBILITY/K06_V2_1/standard_data_audit/reba_standard.csv",
+      "source_path": "03_REPRODUCIBILITY/K06_V2_1/standard_data_audit/reba_standard.csv",
+      "sha256": "7ceacb04646b152e49a68289d3d4a6c395d0fec6a1669914cd5197a2a1db53a0"
+    },
+    {
+      "release_path": "03_REPRODUCIBILITY/K17_STRUCTURAL/K17_DELIVERY/K17_V2_1_FINAL_STATUS.json",
+      "source_path": "03_REPRODUCIBILITY/K17_STRUCTURAL/K17_DELIVERY/K17_V2_1_FINAL_STATUS.json",
+      "sha256": "2e4a4bf61bba47d7ba19414c93823fe661f6492af9e0e0e61434f563c323b13a"
+    },
+    {
+      "release_path": "03_REPRODUCIBILITY/K17_STRUCTURAL/K17_DELIVERY/TIMING_DIAGNOSTIC_NOT_COMPLETED/M/checkpoint_000300.json",
+      "source_path": "03_REPRODUCIBILITY/K17_STRUCTURAL/K17_DELIVERY/TIMING_DIAGNOSTIC_NOT_COMPLETED/M/checkpoint_000300.json",
+      "sha256": "66b6eca033d43d43a127ae886d1ce6ea8c074c9efa42546da4db19118131c70f"
+    },
+    {
+      "release_path": "03_REPRODUCIBILITY/K17_STRUCTURAL/K17_DELIVERY/TIMING_DIAGNOSTIC_NOT_COMPLETED/M/environment.json",
+      "source_path": "03_REPRODUCIBILITY/K17_STRUCTURAL/K17_DELIVERY/TIMING_DIAGNOSTIC_NOT_COMPLETED/M/environment.json",
+      "sha256": "ef3fc9385b020eb4d33e91c76cf7dc1014815d60aeda4ba4b3dcefec2a5d4155"
+    },
+    {
+      "release_path": "03_REPRODUCIBILITY/K17_STRUCTURAL/K17_DELIVERY/TIMING_DIAGNOSTIC_NOT_COMPLETED/M/events.jsonl",
+      "source_path": "03_REPRODUCIBILITY/K17_STRUCTURAL/K17_DELIVERY/TIMING_DIAGNOSTIC_NOT_COMPLETED/M/events.jsonl",
+      "sha256": "4b0b97b246646212a9c49c639310ff4215cdcf44dc8e9469e6e5c6142fbe3a1e"
+    },
+    {
+      "release_path": "03_REPRODUCIBILITY/K17_STRUCTURAL/K17_DELIVERY/TIMING_DIAGNOSTIC_NOT_COMPLETED/M/state.json",
+      "source_path": "03_REPRODUCIBILITY/K17_STRUCTURAL/K17_DELIVERY/TIMING_DIAGNOSTIC_NOT_COMPLETED/M/state.json",
+      "sha256": "40a22c19196ecd9dfe4af0af457070954b10081b398a24658fee930f710de409"
+    },
+    {
+      "release_path": "03_REPRODUCIBILITY/K17_STRUCTURAL/K17_DELIVERY/TIMING_DIAGNOSTIC_NOT_COMPLETED/M/stdout.log",
+      "source_path": "03_REPRODUCIBILITY/K17_STRUCTURAL/K17_DELIVERY/TIMING_DIAGNOSTIC_NOT_COMPLETED/M/stdout.log",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "release_path": "03_REPRODUCIBILITY/K17_STRUCTURAL/K17_DELIVERY/TIMING_DIAGNOSTIC_NOT_COMPLETED/PAIR_STATUS.json",
+      "source_path": "03_REPRODUCIBILITY/K17_STRUCTURAL/K17_DELIVERY/TIMING_DIAGNOSTIC_NOT_COMPLETED/PAIR_STATUS.json",
+      "sha256": "b0b31e0e2de2eabe18eef20356bd45c0e54daffdee2291a8e115025945bd5fa2"
+    },
+    {
+      "release_path": "03_REPRODUCIBILITY/K17_STRUCTURAL/K17_INDEPENDENT_ORACLE/EXACT_REFERENCE.json",
+      "source_path": "03_REPRODUCIBILITY/K17_STRUCTURAL/K17_INDEPENDENT_ORACLE/EXACT_REFERENCE.json",
+      "sha256": "48276571a728adf0e147f0f33159feb217108cc4b56fc442ca002b5ce296f08b"
+    },
+    {
+      "release_path": "03_REPRODUCIBILITY/K17_STRUCTURAL/K17_INDEPENDENT_ORACLE/EXACT_REFERENCE_2026-10-20.json",
+      "source_path": "03_REPRODUCIBILITY/K17_STRUCTURAL/K17_INDEPENDENT_ORACLE/EXACT_REFERENCE_2026-10-20.json",
+      "sha256": "48276571a728adf0e147f0f33159feb217108cc4b56fc442ca002b5ce296f08b"
+    },
+    {
+      "release_path": "03_REPRODUCIBILITY/K17_STRUCTURAL/K17_INDEPENDENT_ORACLE/INDEPENDENT_STRUCTURE_BOUND.json",
+      "source_path": "03_REPRODUCIBILITY/K17_STRUCTURAL/K17_INDEPENDENT_ORACLE/INDEPENDENT_STRUCTURE_BOUND.json",
+      "sha256": "0fa101a203efb8c3588f77200ee1b17e361872dfa898e1066e7b51c00055f71c"
+    },
+    {
+      "release_path": "03_REPRODUCIBILITY/K17_STRUCTURAL/K17_V2_1_ORACLE_QA.json",
+      "source_path": "03_REPRODUCIBILITY/K17_STRUCTURAL/K17_V2_1_ORACLE_QA.json",
+      "sha256": "802ec066000955bc8a373210c522b5eaab66d509f5a0bd724d1b08cfd2165a61"
+    },
+    {
+      "release_path": "03_REPRODUCIBILITY/K17_STRUCTURAL/bounded_region_v2/DATA_SHA256.json",
+      "source_path": "03_REPRODUCIBILITY/K17_STRUCTURAL/bounded_region_v2/DATA_SHA256.json",
+      "sha256": "c850a0c6c6a2982c03c2701a69af79652b65c7185f5bf0fcf7b2128055890b03"
+    },
+    {
+      "release_path": "03_REPRODUCIBILITY/K17_STRUCTURAL/bounded_region_v2/FROZEN_SHA256.json",
+      "source_path": "03_REPRODUCIBILITY/K17_STRUCTURAL/bounded_region_v2/FROZEN_SHA256.json",
+      "sha256": "7a89bab710c1e16c987d75b051da277a25547b6fd434bb3026ab420aad298166"
+    },
+    {
+      "release_path": "03_REPRODUCIBILITY/K17_STRUCTURAL/bounded_region_v2/REAL_CALLBACK_TEST.json",
+      "source_path": "03_REPRODUCIBILITY/K17_STRUCTURAL/bounded_region_v2/REAL_CALLBACK_TEST.json",
+      "sha256": "214810c1c88b698fdd278102e0db19cbf4f7dfa58bebaf0a1722bd49242f3d61"
+    },
+    {
+      "release_path": "03_REPRODUCIBILITY/K17_STRUCTURAL/bounded_region_v2/TEST_RESULTS.json",
+      "source_path": "03_REPRODUCIBILITY/K17_STRUCTURAL/bounded_region_v2/TEST_RESULTS.json",
+      "sha256": "1eead83807edc4205f991e01a3ddf3c925d87f035b5d7aaae302c9e2dd5fd672"
+    },
+    {
+      "release_path": "03_REPRODUCIBILITY/K17_STRUCTURAL/bounded_region_v2/TEST_RESULTS_V2_1.json",
+      "source_path": "03_REPRODUCIBILITY/K17_STRUCTURAL/bounded_region_v2/TEST_RESULTS_V2_1.json",
+      "sha256": "394f90b43a541e5c2131914ff0d5a767cb60aa4faabbdba11539f52bec11bc6f"
+    },
+    {
+      "release_path": "03_REPRODUCIBILITY/K17_STRUCTURAL/bounded_region_v2/bounded.py",
+      "source_path": "03_REPRODUCIBILITY/K17_STRUCTURAL/bounded_region_v2/bounded.py",
+      "sha256": "1d5acf2e569fe4b0d321d4740add28335e6043a6502adc2e9848d1752e85774a"
+    },
+    {
+      "release_path": "03_REPRODUCIBILITY/K17_STRUCTURAL/bounded_region_v2/launch.py",
+      "source_path": "03_REPRODUCIBILITY/K17_STRUCTURAL/bounded_region_v2/launch.py",
+      "sha256": "8c9334b7629571b262befcccf1c8cf729a329164228ca928a866a6fcf26269e0"
+    },
+    {
+      "release_path": "03_REPRODUCIBILITY/K17_STRUCTURAL/bounded_region_v2/legacy_model.py",
+      "source_path": "03_REPRODUCIBILITY/K17_STRUCTURAL/bounded_region_v2/legacy_model.py",
+      "sha256": "f201f664b54e15ae9c254be487b1e6266eecb61fcf2896afe251fc96aee2693d"
+    },
+    {
+      "release_path": "03_REPRODUCIBILITY/K17_STRUCTURAL/bounded_region_v2/run_pair.py",
+      "source_path": "03_REPRODUCIBILITY/K17_STRUCTURAL/bounded_region_v2/run_pair.py",
+      "sha256": "82585cf68bbf2a5fd00087ad1a4cd55435fbbf26aa889fd50cc5d49748222bfb"
+    },
+    {
+      "release_path": "03_REPRODUCIBILITY/K17_STRUCTURAL/bounded_region_v2/runner.py",
+      "source_path": "03_REPRODUCIBILITY/K17_STRUCTURAL/bounded_region_v2/runner.py",
+      "sha256": "548ceb44a4f55dca30ff0f9bf686a33a87ee9d336fa368d724bc9d03b4ce75f7"
+    },
+    {
+      "release_path": "03_REPRODUCIBILITY/K17_STRUCTURAL/bounded_region_v2/test_bounded.py",
+      "source_path": "03_REPRODUCIBILITY/K17_STRUCTURAL/bounded_region_v2/test_bounded.py",
+      "sha256": "df767d80600d4033f35a75ec87924989b2758d7b8022da62375f463e7ba470e9"
+    },
+    {
+      "release_path": "03_REPRODUCIBILITY/K17_STRUCTURAL/k17_structural_oracle.py",
+      "source_path": "03_REPRODUCIBILITY/K17_STRUCTURAL/k17_structural_oracle.py",
+      "sha256": "00c791884a5f3c5a2d92942adb618858511575bf118f6d5168e6ac01c3b15b21"
+    },
+    {
+      "release_path": "03_REPRODUCIBILITY/K17_STRUCTURAL/standard_data_audit/processing_times_standard_1decimal.csv",
+      "source_path": "03_REPRODUCIBILITY/K17_STRUCTURAL/standard_data_audit/processing_times_standard_1decimal.csv",
+      "sha256": "5f2e0c9bf6f3a0a7465eaf923177ed9767360d49c9a45a6bc7794ae7b6875e56"
+    },
+    {
+      "release_path": "03_REPRODUCIBILITY/K17_STRUCTURAL/standard_data_audit/reba_standard.csv",
+      "source_path": "03_REPRODUCIBILITY/K17_STRUCTURAL/standard_data_audit/reba_standard.csv",
+      "sha256": "7ceacb04646b152e49a68289d3d4a6c395d0fec6a1669914cd5197a2a1db53a0"
+    },
+    {
+      "release_path": "03_REPRODUCIBILITY/K17_STRUCTURAL/verify_k17_oracle_against_v2_1.py",
+      "source_path": "03_REPRODUCIBILITY/K17_STRUCTURAL/verify_k17_oracle_against_v2_1.py",
+      "sha256": "3ec3036dd689817ddd5c6959f7d5073bdf353ff5fd8d33236c0c37a7ca2c07eb"
+    }
+  ],
+  "adaptations": [
+    {
+      "path": "scripts/analyze_results.py",
+      "source": "04_REVISION_SOURCE/analyze_results.py",
+      "changes": "English figures only; configurable output folder; explicit figure labels; no optimization change."
+    },
+    {
+      "path": "scripts/verify_panel.py",
+      "source": "03_REPRODUCIBILITY/PANEL14_V1_1/verify_completed_panel.py",
+      "changes": "Skip only two omitted Turkish prose hashes; rename obsolete pending_layers report key; portable default root. Frozen algorithm/data checks unchanged. Verify the public input workbook hash and its linkage to the historical input audit."
+    },
+    {
+      "path": "tests/test_bounded_v2_1.py",
+      "source": "03_REPRODUCIBILITY/K02_V2_1/bounded_region_v2/test_bounded.py",
+      "changes": "Use 600-second default clock assertion for V2.1; portable imports/output. Frozen test file retained unchanged."
+    },
+    {
+      "path": "03_REPRODUCIBILITY/PANEL14_V1_1/project_sources/Verimli_Rotasyon_Model_Inputs.xlsx",
+      "source": "Final model input cells on the toplusayfa worksheet",
+      "changes": "Rebuilt as values only with original input coordinates and coded labels."
+    }
+  ],
+  "omissions": "Turkish narrative reports, prior manuscripts, duplicate per-layer summaries, obsolete pending-layer launchers, bilingual document-build code and stale package-wide manifests. Original frozen manifests are retained; the V1.1 manifest also lists two omitted Turkish prose documents. This release has its own complete manifest. The historic workbook containing pilot worksheets is excluded.",
+  "new_release_tools": [
+    "scripts/reproduce.py",
+    "scripts/check_followup_evidence.py",
+    "scripts/rebuild_standard_data.py",
+    "scripts/build_supplement.py"
+  ],
+  "public_summary_release_date": "2026-11-11"
+}
