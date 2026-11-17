@@ -1,0 +1,18 @@
+{
+  "k": 2,
+  "regime": "M",
+  "elapsed": 1200.0999454050002,
+  "utc": 1792569520.8651884,
+  "pid": 5,
+  "last_safe_event": {
+    "event": "incumbent",
+    "seconds": 1.139088946999891,
+    "objective": "D",
+    "value": 41.0,
+    "first_seconds": 1.139088946999891,
+    "utc": 1792568614.0459003
+  },
+  "state": "RUNNING",
+  "per_call_search_seconds": 600,
+  "per_call_proof_seconds": 1800
+}

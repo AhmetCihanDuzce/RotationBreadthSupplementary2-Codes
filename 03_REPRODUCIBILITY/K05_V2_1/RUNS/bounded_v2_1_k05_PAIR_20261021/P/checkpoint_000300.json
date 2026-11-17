@@ -1,0 +1,16 @@
+{
+  "k": 5,
+  "regime": "P",
+  "elapsed": 300.14546357700056,
+  "utc": 1792576157.8494518,
+  "pid": 7,
+  "last_safe_event": {
+    "event": "region_start",
+    "class_C_cap": 147,
+    "C10_cap": 737,
+    "utc": 1792576018.2559533
+  },
+  "state": "RUNNING",
+  "per_call_search_seconds": 600,
+  "per_call_proof_seconds": 1800
+}
