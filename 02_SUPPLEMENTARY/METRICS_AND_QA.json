@@ -1,0 +1,28 @@
+{
+  "M_layer_records": 38,
+  "P_layer_records": 30,
+  "M_global": 28,
+  "P_global": 17,
+  "global_reduction_pct": 39.28571428571429,
+  "layer_reduction_pct": 21.052631578947366,
+  "panel_M_points": 25,
+  "panel_P_classes": 21,
+  "panel_M_calls": 100,
+  "panel_P_calls": 84,
+  "panel_M_s": 1661.8964694480023,
+  "panel_P_s": 1479.925305030001,
+  "panel_time_reduction_pct": 10.949608941551148,
+  "without_k16_P_increase_pct": 10.155981014500348,
+  "all68_witnesses_integer_and_schedule_QA": "PASS",
+  "all18_projection_checks": "PASS",
+  "global_projection_check": "PASS",
+  "P_representatives_on_M_global": "PASS",
+  "P_range_seconds": [
+    61.5,
+    77.5
+  ],
+  "R_range": [
+    3.6,
+    6.8
+  ]
+}
