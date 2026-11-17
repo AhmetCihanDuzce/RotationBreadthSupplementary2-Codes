@@ -1,0 +1,56 @@
+{
+  "status": "PASS_K17_ORACLE_MATCHED_TO_FROZEN_V2_1_DATA_AND_MODEL",
+  "oracle_status": "COMPLETE_INDEPENDENT_STRUCTURAL_REFERENCE",
+  "data_sha256": {
+    "processing_times_standard_1decimal.csv": "5f2e0c9bf6f3a0a7465eaf923177ed9767360d49c9a45a6bc7794ae7b6875e56",
+    "reba_standard.csv": "7ceacb04646b152e49a68289d3d4a6c395d0fec6a1669914cd5197a2a1db53a0"
+  },
+  "same_points_in_regenerated_and_archived_oracle": true,
+  "witnesses_revalidated_against_v2_1_model": [
+    {
+      "C10": 768,
+      "Dsum": 8,
+      "D_fraction": "2/45",
+      "Smin_actual": 17,
+      "base_model_max_row_violation": 0.0,
+      "integrality_max_error": 0.0,
+      "oracle_18_period_schedule_valid": true,
+      "independent_decomposition_schedule_valid": true,
+      "qa": "PASS"
+    },
+    {
+      "C10": 771,
+      "Dsum": 2,
+      "D_fraction": "1/90",
+      "Smin_actual": 17,
+      "base_model_max_row_violation": 0.0,
+      "integrality_max_error": 0.0,
+      "oracle_18_period_schedule_valid": true,
+      "independent_decomposition_schedule_valid": true,
+      "qa": "PASS"
+    },
+    {
+      "C10": 775,
+      "Dsum": 0,
+      "D_fraction": "0",
+      "Smin_actual": 18,
+      "base_model_max_row_violation": 0.0,
+      "integrality_max_error": 0.0,
+      "oracle_18_period_schedule_valid": true,
+      "independent_decomposition_schedule_valid": true,
+      "qa": "PASS"
+    }
+  ],
+  "practical_P_class_indices": [
+    [
+      154,
+      0
+    ]
+  ],
+  "practical_P_representative_C10_Dsum": [
+    768,
+    8
+  ],
+  "structural_bound_premises_checked": true,
+  "timed_M_P_run_status": "separate; not closed by this oracle"
+}

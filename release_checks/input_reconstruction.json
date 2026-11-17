@@ -1,0 +1,11 @@
+{
+  "status": "PASS",
+  "source_sha256": "64f4ff128fd93ee82b9c7551ade8050001ca83693168ad28e869b038cad56d2d",
+  "regenerated_files": [
+    "processing_times_standard_1decimal.csv",
+    "reba_standard.csv",
+    "cell_mapping_and_rounding.csv"
+  ],
+  "byte_identical_to_archive": true,
+  "underlying_means_recalculated": false
+}

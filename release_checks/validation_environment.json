@@ -1,0 +1,14 @@
+{
+  "versions": {
+    "python": "3.12.14",
+    "numpy": "2.3.5",
+    "scipy": "1.17.0",
+    "highs": "1.8.0"
+  },
+  "version_drift": {},
+  "requested_cpu": 0,
+  "original_cpu": 0,
+  "platform": "Linux-6.18.55-x86_64-with-glibc2.39",
+  "original_binary_image_available": false,
+  "timing_equivalence_guaranteed": false
+}

@@ -1,0 +1,72 @@
+{
+  "status": "PASS",
+  "runs": [
+    {
+      "k": 2,
+      "regime": "M",
+      "raw_complete": false,
+      "processed_caps": 101,
+      "closed_caps": 96,
+      "unresolved_caps": 5,
+      "full_call_array_length": 254,
+      "retained_call_end_events": 100,
+      "status": "PASS"
+    },
+    {
+      "k": 2,
+      "regime": "P",
+      "raw_complete": true,
+      "processed_caps": 24,
+      "closed_caps": 24,
+      "unresolved_caps": 0,
+      "full_call_array_length": 60,
+      "retained_call_end_events": 60,
+      "status": "PASS"
+    },
+    {
+      "k": 5,
+      "regime": "M",
+      "raw_complete": false,
+      "processed_caps": 78,
+      "closed_caps": 77,
+      "unresolved_caps": 1,
+      "full_call_array_length": 233,
+      "retained_call_end_events": 35,
+      "status": "PASS"
+    },
+    {
+      "k": 5,
+      "regime": "P",
+      "raw_complete": false,
+      "processed_caps": 18,
+      "closed_caps": 17,
+      "unresolved_caps": 1,
+      "full_call_array_length": 53,
+      "retained_call_end_events": 26,
+      "status": "PASS"
+    },
+    {
+      "k": 6,
+      "regime": "M",
+      "raw_complete": true,
+      "processed_caps": 68,
+      "closed_caps": 68,
+      "unresolved_caps": 0,
+      "full_call_array_length": 204,
+      "retained_call_end_events": 24,
+      "status": "PASS"
+    },
+    {
+      "k": 6,
+      "regime": "P",
+      "raw_complete": true,
+      "processed_caps": 16,
+      "closed_caps": 16,
+      "unresolved_caps": 0,
+      "full_call_array_length": 48,
+      "retained_call_end_events": 48,
+      "status": "PASS"
+    }
+  ],
+  "note": "Partial event logs are retained unchanged; full call arrays remain in result.json and state.json."
+}
